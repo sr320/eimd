@@ -14,5 +14,5 @@ for line in lines_gen: #now start looping through
         out = GO + ',' + term + '\n' #print a new line in your CSV for each spID, with the corresponding GO term
         Output.write(out)
 Output.close
- 
+ #this is sarah making a comment
 ###YAY!  Note: if you have just your significant values, then you can cut out the n step and the islice step!###
