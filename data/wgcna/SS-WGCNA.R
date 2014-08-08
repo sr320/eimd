@@ -1,16 +1,30 @@
+
+#if doing for first time ..
+
+#source("http://bioconductor.org/biocLite.R") 
+#biocLite("impute") 
+#install.packages("WGCNA")
+
+
 library(WGCNA);
 # The following setting is important, do not omit.
 options(stringsAsFactors = FALSE);
 #Read in the female liver data set
-SSData = read.csv("Phel_rnaseq_normalized_expression.csv");
+SSData = read.csv("/Users/sr320/Dropbox/Steven/eimd/data/wgcna/Phel_rnaseq_normalized_expression.csv");
 # Take a quick look at what is in the data set:
 dim(SSData);
 names(SSData);
 
+
+#This tells the library where data is 
 datExpr0 = as.data.frame(t(SSData[c(2:7)]));
 names(datExpr0) = SSData$Contig;
 rownames(datExpr0) = names(SSData)[c(2:7)];
 
+#this command just shows data
+datExpr0
+
+#simply change the name
 datExpr=datExpr0
 
 gsg = goodSamplesGenes(datExpr0, verbose = 3);
