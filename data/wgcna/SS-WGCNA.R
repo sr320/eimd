@@ -84,3 +84,8 @@ addGuide = TRUE, guideHang = 0.05)
 moduleLabels = net$colors
 moduleColors = labels2colors(net$colors)
 table(moduleColors)
+
+#find out what contigs are each in each 
+Genes = names(datExpr)
+geneInfo = data.frame(Contig = Genes, moduleColor = moduleColors)
+write.csv(geneInfo, file = "geneInfo.csv")
