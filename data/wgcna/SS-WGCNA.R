@@ -6,10 +6,12 @@
 #install.packages("WGCNA")
 
 
+##NOTE you will need to change the file location
+
 library(WGCNA);
 # The following setting is important, do not omit.
 options(stringsAsFactors = FALSE);
-#Read in the female liver data set
+#Read in the seastar data set
 SSData = read.csv("/Users/sr320/Dropbox/Steven/eimd/data/wgcna/Phel_rnaseq_normalized_expression.csv");
 # Take a quick look at what is in the data set:
 dim(SSData);
@@ -27,10 +29,12 @@ datExpr0
 #simply change the name
 datExpr=datExpr0
 
+#check data, makes sure there is no zeros
 gsg = goodSamplesGenes(datExpr0, verbose = 3);
 gsg$allOK
 collectGarbage();
 
+#find soft thresholding power...sr
 powers = c(c(1:10), seq(from = 12, to=20, by=2))
 # Call the network topology analysis function
 sft = pickSoftThreshold(datExpr, powerVector = powers, verbose = 5)
@@ -52,9 +56,15 @@ xlab="Soft Threshold (power)",ylab="Mean Connectivity", type="n",
 main = paste("Mean connectivity"))
 text(sft$fitIndices[,1], sft$fitIndices[,5], labels=powers, cex=cex1,col="red")
 
+
+#set 10 based on below web site
+#link http://labs.genetics.ucla.edu/horvath/CoexpressionNetwork/Rpackages/WGCNA/faq.html
+
+
 net = blockwiseModules(datExpr, power = 10,
 TOMType = "unsigned", minModuleSize = 9,
-reassignThreshold = 0, mergeCutHeight = 0.25,
+#change merge height to get different modules
+reassignThreshold = 0, mergeCutHeight = 0.05,
 numericLabels = TRUE, pamRespectsDendro = FALSE,
 saveTOMs = TRUE,
 saveTOMFileBase = "femaleMouseTOM",
@@ -69,3 +79,8 @@ plotDendroAndColors(net$dendrograms[[1]], mergedColors[net$blockGenes[[1]]],
 "Module colors",
 dendroLabels = FALSE, hang = 0.03,
 addGuide = TRUE, guideHang = 0.05)
+
+#creates table for counts
+moduleLabels = net$colors
+moduleColors = labels2colors(net$colors)
+table(moduleColors)
