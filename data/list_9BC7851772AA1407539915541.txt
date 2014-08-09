@@ -1,0 +1,996 @@
+UNIPROT_ACCESSION	Name	Species
+Q62760	translocase of outer mitochondrial membrane 20 homolog (yeast)	Rattus norvegicus
+Q6PC91	similar to basic transcription factor 3-like 4; basic transcription factor 3-like 4	Danio rerio
+Q5XIR6	IQ motif containing D	Rattus norvegicus
+Q29RV1	protein disulfide isomerase family A, member 4	Bos taurus
+P19440	gamma-glutamyltransferase light chain 3; gamma-glutamyltransferase 4 pseudogene; gamma-glutamyltransferase 2; gamma-glutamyltransferase 1; gamma-glutamyltransferase light chain 5 pseudogene	Homo sapiens
+P50169	retinol dehydrogenase 7	Rattus norvegicus
+Q6P8E9	NHP2-like protein 1	Xenopus (Silurana) tropicalis
+P96202	Rv2933; MRA_2959	Mycobacterium tuberculosis
+P40937	replication factor C (activator 1) 5, 36.5kDa	Homo sapiens
+Q6PBA2	LSM12 homolog (S. cerevisiae)	Danio rerio
+Q3SYS9	KIAA1279	Bos taurus
+Q8BZQ7	anaphase promoting complex subunit 2	Mus musculus
+Q7TNG8	lactate dehydrogenase D	Mus musculus
+P41743	protein kinase C, iota	Homo sapiens
+O54715	ATPase, H+ transporting, lysosomal accessory protein 1	Rattus norvegicus
+P11501	heat shock protein 90kDa alpha (cytosolic), class A member 1	Gallus gallus
+Q91V16	LYR motif containing 5	Mus musculus
+Q3UKU1	elongation factor RNA polymerase II 2	Mus musculus
+Q7Z2H8	solute carrier family 36 (proton/amino acid symporter), member 1	Homo sapiens
+Q9N0P9	pim-1 oncogene	Bos taurus
+O43679	LIM domain binding 2	Homo sapiens
+Q9DAK2	PARK2 co-regulated	Mus musculus
+Q9EQJ0	two pore channel 1	Mus musculus
+Q503Y7	similar to Peptidyl-prolyl cis-trans isomerase NIMA-interacting 4 (Rotamase Pin4) (PPIase Pin4) (Parvulin 14) (Par14) (Peptidyl-prolyl cis/trans isomerase EPVH) (hPar14); zgc:110008	Danio rerio
+Q8BMN4	leishmanolysin-like (metallopeptidase M8 family)	Mus musculus
+P28863	matrix metallopeptidase 3 (stromelysin 1, progelatinase)	Oryctolagus cuniculus
+Q1LZI2	solute carrier family 35, member F3	Mus musculus
+B3STU3	ChaC, cation transport regulator homolog 1 (E. coli)	Rattus norvegicus
+Q503L9	nucleoredoxin	Danio rerio
+P49138	MAP kinase-activated protein kinase 2	Mus musculus
+Q9W2N0	capping protein alpha	Drosophila melanogaster
+Q2IBC0	Hepatocyte growth factor receptor	Rhinolophus ferrumequinum
+O43426	synaptojanin 1	Homo sapiens
+Q80W94	monoacylglycerol O-acyltransferase 2	Mus musculus
+Q6PEC4	S-phase kinase-associated protein 1	Rattus norvegicus
+C3YWU0	BRAFLDRAFT_56888	Branchiostoma floridae
+Q8N960	centrosomal protein 120kDa	Homo sapiens
+Q86VP3	phosphofurin acidic cluster sorting protein 2	Homo sapiens
+P21333	filamin A, alpha (actin binding protein 280)	Homo sapiens
+O54748	serine/threonine kinase 3 (STE20 homolog, yeast)	Rattus norvegicus
+Q92562	FIG4 homolog (S. cerevisiae)	Homo sapiens
+Q80V70	multiple EGF-like-domains 6	Mus musculus
+Q8BZ20	poly (ADP-ribose) polymerase family, member 12	Mus musculus
+Q8IZJ3	C3 and PZP-like, alpha-2-macroglobulin domain containing 8	Homo sapiens
+Q9CX98	cytochrome P450, family 2, subfamily u, polypeptide 1	Mus musculus
+Q0D2E8	RFT1 homolog (S. cerevisiae)	Xenopus (Silurana) tropicalis
+P18652	ribosomal protein S6 kinase, 90kDa, polypeptide 1	Gallus gallus
+P21522	Heterogeneous nuclear ribonucleoprotein A1, A2/B1 homolog	Schistocerca americana
+Q5ZL55	chromatin modifying protein 6	Gallus gallus
+Q22165	STOmatin	Caenorhabditis elegans
+Q9HB07	chromosome 12 open reading frame 10	Homo sapiens
+Q00612	glucose-6-phosphate dehydrogenase X-linked	Mus musculus
+Q2I6J1	wu:fc58a04	Danio rerio
+Q86TV6	tetratricopeptide repeat domain 7B	Homo sapiens
+Q5ZLX2	eukaryotic translation initiation factor 2, subunit 1 alpha, 35kDa	Gallus gallus
+P54611	Vacuolar H[+]-ATPase 26kD E subunit	Drosophila melanogaster
+P53619	archain 1	Bos taurus
+Q6IP59	Choline transporter-like protein 2	Xenopus laevis
+Q8TEY5	cAMP responsive element binding protein 3-like 4	Homo sapiens
+O15072	ADAM metallopeptidase with thrombospondin type 1 motif, 3	Homo sapiens
+P28271	aconitase 1	Mus musculus
+Q5M8V8	LIM domain only 2 (rhombotin-like 1)	Xenopus (Silurana) tropicalis
+P27117	ornithine decarboxylase 1	Bos taurus
+A2BGL3	hypothetical LOC561091	Danio rerio
+A4IIW7	hypothetical protein LOC100125075	Xenopus (Silurana) tropicalis
+P10768	esterase D/formylglutathione hydrolase	Homo sapiens
+Q80VW7	AT-hook transcription factor	Mus musculus
+Q8WU17	ring finger protein 139	Homo sapiens
+Q3T0K2	chaperonin containing TCP1, subunit 3 (gamma)	Bos taurus
+P51617	interleukin-1 receptor-associated kinase 1	Homo sapiens
+Q5RGJ5	CWF19-like 1, cell cycle control	Danio rerio
+Q8R151	zinc finger, NFX1-type containing 1	Mus musculus
+P26262	kallikrein B, plasma 1	Mus musculus
+Q7ZUK7	WW domain containing adaptor with coiled-coil	Danio rerio
+Q60803	TNF receptor-associated factor 3	Mus musculus
+Q5F495	similar to 2C4D; MOB1, Mps One Binder kinase activator-like 3 (yeast)	Gallus gallus
+A5D6U8	zgc:162913	Danio rerio
+Q15599	solute carrier family 9 (sodium/hydrogen exchanger), member 3 regulator 2	Homo sapiens
+Q3ZBR5	tetratricopeptide repeat domain 1	Bos taurus
+Q7LHG5	Transposon Ty3-I Gag-Pol polyprotein	Saccharomyces cerevisiae
+P30937	somatostatin receptor 4	Rattus norvegicus
+O95260	arginyltransferase 1	Homo sapiens
+Q40784	Putative apospory-associated protein C	Cenchrus ciliaris
+Q14344	guanine nucleotide binding protein (G protein), alpha 13	Homo sapiens
+Q0GGW5	serine/threonine kinase 11	Gallus gallus
+Q5RDQ8	glutamate receptor, metabotropic 7	Pongo abelii
+Q9JM76	actin related protein 2/3 complex, subunit 3	Mus musculus
+Q9DBG7	signal recognition particle receptor ('docking protein')	Mus musculus
+Q6NWH0	hypothetical LOC554542; zgc:63470	Danio rerio
+Q9JI19	fibroblast growth factor (acidic) intracellular binding protein	Mus musculus
+P63155	crooked neck pre-mRNA splicing factor-like 1 (Drosophila)	Rattus norvegicus
+Q63159	coenzyme Q3 homolog, methyltransferase (S. cerevisiae)	Rattus norvegicus
+Q5ZJU3	asparagine synthetase	Gallus gallus
+P78382	solute carrier family 35 (CMP-sialic acid transporter), member A1	Homo sapiens
+O95786	DEAD (Asp-Glu-Ala-Asp) box polypeptide 58	Homo sapiens
+P29074	protein tyrosine phosphatase, non-receptor type 4 (megakaryocyte)	Homo sapiens
+Q8BGC9	cellular repressor of E1A-stimulated genes 2	Mus musculus
+Q02372	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 8, 19kDa	Bos taurus
+Q1JP75	dicarbonyl/L-xylulose reductase	Bos taurus
+Q0V8H6	Mov10, Moloney leukemia virus 10, homolog (mouse)	Bos taurus
+Q5RAH7	phosphatidylinositol glycan anchor biosynthesis, class M	Pongo abelii
+Q6GM82	glutamic pyruvate transaminase (alanine aminotransferase) 2	Xenopus laevis
+Q8JHE9	anterior pharynx defective 1B	Danio rerio
+Q5R5C9	saccharopine dehydrogenase (putative)	Pongo abelii
+P54714	triosephosphate isomerase 1	Canis lupus
+Q6NRW5	Uncharacterized protein C15orf41 homolog	Xenopus laevis
+P41932	abnormal embryonic PARtitioning of cytoplasm	Caenorhabditis elegans
+O35887	calumenin	Mus musculus
+P61799	aprataxin	Danio rerio
+B0BN95	harbinger transposase derived 1	Rattus norvegicus
+Q8R367	RAS-like, estrogen-regulated, growth-inhibitor	Mus musculus
+Q8WVM7	stromal antigen 1	Homo sapiens
+Q969X5	endoplasmic reticulum-golgi intermediate compartment (ERGIC) 1	Homo sapiens
+Q61469	phosphatidic acid phosphatase type 2A	Mus musculus
+Q01664	transcription factor AP-4 (activating enhancer binding protein 4)	Homo sapiens
+Q9BX84	transient receptor potential cation channel, subfamily M, member 6	Homo sapiens
+Q62867	gamma-glutamyl hydrolase	Rattus norvegicus
+Q4KLA0	hypothetical protein MGC116479	Xenopus laevis
+Q8VEM8	similar to Solute carrier family 25 (mitochondrial carrier, phosphate carrier), member 3; solute carrier family 25 (mitochondrial carrier, phosphate carrier), member 3	Mus musculus
+Q80XC3	USP6 N-terminal like	Mus musculus
+Q8BV79	lupus brain antigen 1	Mus musculus
+Q9BUD6	spondin 2, extracellular matrix protein	Homo sapiens
+Q1LUT1	enhancer of mRNA decapping 4	Danio rerio
+P62262	14-3-3 protein	Ovis aries
+Q4JIM4	presenilin 1 (Alzheimer disease 3)	Gallus gallus
+Q9UGJ0	protein kinase, AMP-activated, gamma 2 non-catalytic subunit	Homo sapiens
+Q8N264	Rho GTPase activating protein 24	Homo sapiens
+Q9UNN5	Fas (TNFRSF6) associated factor 1	Homo sapiens
+Q4QQW3	alcohol dehydrogenase, iron containing, 1	Rattus norvegicus
+Q17QH8	short chain dehydrogenase/reductase family 39U, member 1	Bos taurus
+Q5E985	hyaluronoglucosaminidase 1	Bos taurus
+Q99943	1-acylglycerol-3-phosphate O-acyltransferase 1 (lysophosphatidic acid acyltransferase, alpha)	Homo sapiens
+Q5ZL42	basic leucine zipper and W2 domains 2	Gallus gallus
+P51644	ADP ribosylation factor 4	Xenopus laevis
+Q9HAC7	chromosome 7 open reading frame 10	Homo sapiens
+C3YFB4	BRAFLDRAFT_58504	Branchiostoma floridae
+Q91Z92	similar to UDP-Gal:betaGal beta 1,3-galactosyltransferase, polypeptide 6; UDP-Gal:betaGal beta 1,3-galactosyltransferase, polypeptide 6	Mus musculus
+Q9ESG5	heparan sulfate (glucosamine) 3-O-sulfotransferase 1	Rattus norvegicus
+P00389	P450 (cytochrome) oxidoreductase	Oryctolagus cuniculus
+B1H116	uridine-cytidine kinase 2	Xenopus (Silurana) tropicalis
+Q60855	receptor (TNFRSF)-interacting serine-threonine kinase 1	Mus musculus
+Q9BZE4	GTP binding protein 4	Homo sapiens
+P09215	protein kinase C, delta	Rattus norvegicus
+P17560	renin binding protein	Sus scrofa
+Q5HYK7	SH3 domain containing 19	Homo sapiens
+P21580	tumor necrosis factor, alpha-induced protein 3	Homo sapiens
+Q6AYQ8	fumarylacetoacetate hydrolase domain containing 1	Rattus norvegicus
+Q16644	mitogen-activated protein kinase-activated protein kinase 3	Homo sapiens
+A4VPC3	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase	Pseudomonas stutzeri
+P00687	amylase 1, salivary	Mus musculus
+Q9HCB6	spondin 1, extracellular matrix protein	Homo sapiens
+O54750	cytochrome P450, family 2, subfamily j, polypeptide 6	Mus musculus
+Q5QJE6	deoxynucleotidyltransferase, terminal, interacting protein 2	Homo sapiens
+Q5BL72	frizzled homolog 7	Xenopus (Silurana) tropicalis
+Q5R5U1	RAB10, member RAS oncogene family	Pongo abelii
+Q90673	PRELI domain containing 1	Gallus gallus
+A0JM12	multiple EGF-like-domains 10	Xenopus (Silurana) tropicalis
+Q5SRX1	target of myb1-like 2 (chicken)	Mus musculus
+Q5RED8	cylindromatosis (turban tumor syndrome)	Pongo abelii
+Q9HBY0	NADPH oxidase 3	Homo sapiens
+Q5GLH2	tribbles homolog 2 (Drosophila)	Bos taurus
+Q8MJU9	myosin, heavy chain 7, cardiac muscle, beta	Equus caballus
+Q90Z16	optineurin	Gallus gallus
+A3KGZ2	zgc:158437	Danio rerio
+Q3TZM9	asparagine-linked glycosylation 11 homolog (yeast, alpha-1,2-mannosyltransferase)	Mus musculus
+Q91Z46	dual specificity phosphatase 7; similar to dual specificity phosphatase 7	Mus musculus
+O00567	NOP56 ribonucleoprotein homolog (yeast)	Homo sapiens
+Q5U508	hypothetical LOC495403	Xenopus laevis
+Q8CD54	family with sequence similarity 38, member B2	Mus musculus
+Q8C172	LAG1 homolog, ceramide synthase 6	Mus musculus
+Q9BVH7	ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 5	Homo sapiens
+Q7ZYC4	long-chain-fatty-acid--CoA ligase ACSBG2	Xenopus laevis
+A2APV2	formin-like 2	Mus musculus
+Q9DC23	DnaJ (Hsp40) homolog, subfamily C, member 10	Mus musculus
+Q5E9S4	alanine-glyoxylate aminotransferase 2-like 1	Bos taurus
+P09960	leukotriene A4 hydrolase	Homo sapiens
+Q6DNG6	sialytransferase St8SiaI	Xenopus (Silurana) tropicalis
+Q5R7J6	ubiquitin-conjugating enzyme E2N (UBC13 homolog, yeast)	Pongo abelii
+P46952	3-hydroxyanthranilate 3,4-dioxygenase	Homo sapiens
+Q5F3Z9	zinc finger CCCH-type containing 14	Gallus gallus
+Q8VEL2	myotubularin related protein 14	Mus musculus
+Q92EK7	Uncharacterized oxidoreductase Lin0452	Listeria innocua
+Q6NU98	serine/threonine-protein kinase pdik1l-B	Xenopus laevis
+Q9DB05	N-ethylmaleimide sensitive fusion protein attachment protein alpha	Mus musculus
+Q28727	solute carrier family 10 (sodium/bile acid cotransporter family), member 2	Oryctolagus cuniculus
+Q9DDT2	phosphoinositide-3-kinase adaptor protein 1	Gallus gallus
+Q8BG30	Wolf-Hirschhorn syndrome candidate 2 (human)	Mus musculus
+P97379	GTPase activating protein (SH3 domain) binding protein 2	Mus musculus
+Q96QF0	RAB3A interacting protein (rabin3)	Homo sapiens
+Q63369	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1	Rattus norvegicus
+Q5T160	arginyl-tRNA synthetase 2, mitochondrial	Homo sapiens
+Q9V3D2	Coproporphyrinogen oxidase	Drosophila melanogaster
+Q9BY84	dual specificity phosphatase 16	Homo sapiens
+Q8N695	solute carrier family 5 (iodide transporter), member 8	Homo sapiens
+Q91754	glucokinase regulator	Xenopus laevis
+Q9VTK2	rotated abdomen	Drosophila melanogaster
+P04176	phenylalanine hydroxylase	Rattus norvegicus
+P30838	aldehyde dehydrogenase 3 family, memberA1	Homo sapiens
+P13073	cytochrome c oxidase subunit IV isoform 1	Homo sapiens
+Q9Z2K9	Isocitrate dehydrogenase [NADP] cytoplasmic	Microtus mexicanus
+P82251	solute carrier family 7 (cationic amino acid transporter, y+ system), member 9	Homo sapiens
+Q5RFR0	tocopherol (alpha) transfer protein-like	Pongo abelii
+P0C6B8	sushi, von Willebrand factor type A, EGF and pentraxin domain containing 1	Rattus norvegicus
+P00919	carbonic anhydrase II	Oryctolagus cuniculus
+Q8IUR6	chromosome 5 open reading frame 41	Homo sapiens
+Q3ZBD2	actin-related protein 10 homolog (S. cerevisiae)	Bos taurus
+Q7T010	zgc:103736; si:ch211-150a22.1	Danio rerio
+O15091	KIAA0391	Homo sapiens
+A4IF63	tripartite motif-containing 2	Bos taurus
+Q866N2	myocilin	Oryctolagus cuniculus
+Q923E4	sirtuin 1 (silent mating type information regulation 2, homolog) 1 (S. cerevisiae)	Mus musculus
+Q7ZWZ5	citrate synthase	Xenopus laevis
+Q90ZC7	potassium large conductance calcium-activated channel, subfamily M, alpha member 1	Xenopus laevis
+O08992	similar to syntenin; syndecan binding protein	Mus musculus
+Q6DJ06	MGC89099 protein	Xenopus (Silurana) tropicalis
+Q28EX9	ubiquitin-like domain containing CTD phosphatase 1	Xenopus (Silurana) tropicalis
+Q7ZVN7	mediator complex subunit 15	Danio rerio
+P07872	acyl-Coenzyme A oxidase 1, palmitoyl	Rattus norvegicus
+Q9BQA9	chromosome 17 open reading frame 62	Homo sapiens
+O15335	chondroadherin	Homo sapiens
+Q6N021	tet oncogene family member 2	Homo sapiens
+Q6KCD5	Nipped-B homolog (Drosophila)	Mus musculus
+Q7T2A5	eukaryotic translation initiation factor 3, subunit 6 interacting protein	Danio rerio
+Q61187	tumor susceptibility gene 101	Mus musculus
+Q9V3H2	26S proteasome non-ATPase regulatory subunit 14	Drosophila melanogaster
+P21912	succinate dehydrogenase complex, subunit B, iron sulfur (Ip)	Homo sapiens
+Q8QFP8	LIM domain kinase 1	Gallus gallus
+P54802	N-acetylglucosaminidase, alpha-	Homo sapiens
+P23004	similar to ubiquinol--cytochrome c reductase; ubiquinol-cytochrome c reductase core protein II	Bos taurus
+Q91V92	ATP citrate lyase	Mus musculus
+Q96BT7	alkB, alkylation repair homolog 8 (E. coli)	Homo sapiens
+Q8JIY1	metalloprotease/disintegrin	Xenopus laevis
+Q9UH65	SWAP switching B-cell complex 70kDa subunit	Homo sapiens
+Q9DBB9	carboxypeptidase N, polypeptide 2	Mus musculus
+P08761	Ecdysone-induced protein 28/29kD	Drosophila melanogaster
+Q5F371	strawberry notch homolog 1 (Drosophila)	Gallus gallus
+Q07352	zinc finger protein 36, C3H type-like 1	Homo sapiens
+P29054	general transcription factor IIB	Xenopus laevis
+Q9VZS3	Protein translation factor SUI1 homolog	Drosophila melanogaster
+Q32KH5	galactosamine (N-acetyl)-6-sulfate sulfatase	Canis lupus
+Q91WM2	cat eye syndrome chromosome region, candidate 5 homolog (human)	Mus musculus
+Q6DD06	MGC80486 protein	Xenopus laevis
+Q6GNQ1	arsA arsenite transporter, ATP-binding, homolog 1 (bacterial)	Xenopus laevis
+Q6P4R8	nuclear factor related to kappaB binding protein	Homo sapiens
+P11475	estrogen-related receptor beta	Rattus norvegicus
+P28072	proteasome (prosome, macropain) subunit, beta type, 6	Homo sapiens
+Q32LN0	ets homologous factor	Bos taurus
+Q2HJI3	similar to CG5323 CG5323-PA; family with sequence similarity 136, member A; similar to Protein FAM136A	Bos taurus
+Q99L28	predicted gene 6457; cDNA sequence BC003885	Mus musculus
+Q9NX74	dihydrouridine synthase 2-like, SMM1 homolog (S. cerevisiae)	Homo sapiens
+Q3T102	eukaryotic translation initiation factor 3, subunit E	Bos taurus
+Q9QYJ0	DnaJ (Hsp40) homolog, subfamily A, member 2	Mus musculus
+Q9GZU5	nyctalopin	Homo sapiens
+Q99M80	protein tyrosine phosphatase, receptor type, T	Mus musculus
+Q9H477	ribokinase	Homo sapiens
+P79761	cytochrome P450, family 1, subfamily A, polypeptide 1	Gallus gallus
+Q9NYB5	solute carrier organic anion transporter family, member 1C1	Homo sapiens
+Q12719	Laccase-4	Trametes versicolor
+Q5F418	proteasome (prosome, macropain) 26S subunit, non-ATPase, 1	Gallus gallus
+P48437	prospero-related homeobox 1	Mus musculus
+Q8TDQ7	glucosamine-6-phosphate deaminase 2	Homo sapiens
+Q5XHI2	hypothetical LOC494991	Xenopus laevis
+Q6P5E4	UDP-glucose ceramide glucosyltransferase-like 1; similar to UDP-glucose ceramide glucosyltransferase-like 1	Mus musculus
+Q9CA28	AT1G68540	Arabidopsis thaliana
+Q8BW10	NIN1/RPN12 binding protein 1 homolog (S. cerevisiae)	Mus musculus
+Q6NVU2	protein phosphatase 1, catalytic subunit, gamma isoform	Xenopus (Silurana) tropicalis
+Q6PC64	ELOVL family member 6, elongation of long chain fatty acids (yeast)	Danio rerio
+O75594	peptidoglycan recognition protein 1	Homo sapiens
+Q21828	UPF0041 protein R07E5.13	Caenorhabditis elegans
+Q91VN6	DEAD (Asp-Glu-Ala-Asp) box polypeptide 41	Mus musculus
+Q9JI08	bridging integrator 3	Mus musculus
+Q9H0W9	chromosome 11 open reading frame 54	Homo sapiens
+Q8VCN5	cystathionase (cystathionine gamma-lyase)	Mus musculus
+Q5NVI9	DnaJ (Hsp40) homolog, subfamily A, member 1	Pongo abelii
+P91660	lethal (2) 03659	Drosophila melanogaster
+O88377	phosphatidylinositol-5-phosphate 4-kinase, type II, beta	Rattus norvegicus
+Q6NY73	lectin, galactoside-binding, soluble, 3 binding protein b	Danio rerio
+O55057	phosphodiesterase 6D, cGMP-specific, rod, delta	Mus musculus
+A0PYP3	2,3-bisphosphoglycerate-independent phosphoglycerate mutase	Clostridium novyi
+Q6FHJ7	secreted frizzled-related protein 4	Homo sapiens
+P23824	GATA binding protein 2	Gallus gallus
+Q5ZJZ5	3-hydroxybutyrate dehydrogenase, type 1	Gallus gallus
+Q9JME2	carbohydrate sulfotransferase 11	Mus musculus
+Q6NYE2	zgc:77115	Danio rerio
+Q71U34	Heat shock cognate 71 kDa protein	Saguinus oedipus
+P16444	dipeptidase 1 (renal)	Homo sapiens
+O60879	diaphanous homolog 2 (Drosophila)	Homo sapiens
+Q9W539	Hormone receptor 4	Drosophila melanogaster
+Q5R8Z8	RAB14, member RAS oncogene family	Pongo abelii
+O14512	suppressor of cytokine signaling 7	Homo sapiens
+Q9BXW4	microtubule-associated protein 1 light chain 3 gamma	Homo sapiens
+Q9WV52	pleckstrin 2	Mus musculus
+Q96RW7	hemicentin 1	Homo sapiens
+Q9UHD2	TANK-binding kinase 1	Homo sapiens
+P42768	Wiskott-Aldrich syndrome (eczema-thrombocytopenia)	Homo sapiens
+Q96AB6	N-terminal asparagine amidase	Homo sapiens
+Q2KI54	armadillo repeat containing 8	Bos taurus
+Q8K370	acyl-Coenzyme A dehydrogenase family, member 10	Mus musculus
+Q00651	integrin alpha 4	Mus musculus
+Q5ZIJ9	mindbomb homolog 2 (Drosophila)	Gallus gallus
+Q90687	protein tyrosine phosphatase, non-receptor type 11; similar to cSH-PTP2	Gallus gallus
+Q8TC12	retinol dehydrogenase 11 (all-trans/9-cis/11-cis)	Homo sapiens
+Q9JMD3	START domain containing 10	Mus musculus
+Q9NZR2	low density lipoprotein-related protein 1B (deleted in tumors)	Homo sapiens
+Q3ZMH1	solute carrier family 5 (iodide transporter), member 8-like	Danio rerio
+A2RSQ0	DENN/MADD domain containing 5B	Mus musculus
+Q2KJC9	aldehyde dehydrogenase 7 family, member A1	Bos taurus
+O75832	proteasome (prosome, macropain) 26S subunit, non-ATPase, 10	Homo sapiens
+Q9HAB8	phosphopantothenoylcysteine synthetase	Homo sapiens
+P80404	4-aminobutyrate aminotransferase	Homo sapiens
+Q5E9H5	BCS1-like (yeast)	Bos taurus
+Q9Z2J0	solute carrier family 23 (nucleobase transporters), member 1	Mus musculus
+Q924W7	suppression of tumorigenicity 5	Mus musculus
+Q8BGZ4	CDC23 (cell division cycle 23, yeast, homolog)	Mus musculus
+Q7LL04	UPF0676 protein C1494.01	Schizosaccharomyces pombe
+Q63505	general transcription factor III C 1	Rattus norvegicus
+Q9H981	ARP8 actin-related protein 8 homolog (yeast)	Homo sapiens
+Q6DJI9	MGC82154 protein	Xenopus laevis
+Q12888	tumor protein p53 binding protein 1	Homo sapiens
+Q923V4	F-box protein 6	Rattus norvegicus
+Q6UWM7	lactase-like	Homo sapiens
+Q9Y5Q9	general transcription factor IIIC, polypeptide 3, 102kDa	Homo sapiens
+Q7ZUX3	WD repeat domain 45	Danio rerio
+P08953	Toll	Drosophila melanogaster
+Q6DDK2	fatty acid desaturase 2	Xenopus laevis
+Q7Z7L9	zinc finger and SCAN domain containing 2	Homo sapiens
+P54319	phospholipase A2, activating protein	Rattus norvegicus
+Q0MVN8	crystallin, zeta (quinone reductase)	Sus scrofa
+Q5RD64	contactin associated protein-like 2	Pongo abelii
+Q5BLE8	retinol saturase (all-trans-retinol 13,14-reductase)	Danio rerio
+O76082	solute carrier family 22 (organic cation/carnitine transporter), member 5	Homo sapiens
+Q9U539	Organic Cation Transporter	Caenorhabditis elegans
+Q9SEV0	Leucoanthocyanidin reductase	Arabidopsis thaliana
+Q9NQZ8	zinc finger protein 71	Homo sapiens
+O60271	sperm associated antigen 9	Homo sapiens
+Q99N02	solute carrier organic anion transporter family, member 3a1	Rattus norvegicus
+P52435	polymerase (RNA) II (DNA directed) polypeptide J, 13.3kDa	Homo sapiens
+O35717	suppressor of cytokine signaling 2; predicted gene 8000	Mus musculus
+O13016	protein tyrosine phosphatase, non-receptor type 1	Gallus gallus
+Q15485	ficolin (collagen/fibrinogen domain containing lectin) 2 (hucolin)	Homo sapiens
+Q06805	tyrosine kinase with immunoglobulin-like and EGF-like domains 1	Bos taurus
+P49585	phosphate cytidylyltransferase 1, choline, alpha	Homo sapiens
+Q3TYE7	transmembrane protein 136	Mus musculus
+Q5HZQ9	Pecanex-like protein C14orf135 homolog	Xenopus laevis
+P53671	LIM domain kinase 2	Homo sapiens
+O95155	ubiquitination factor E4B (UFD2 homolog, yeast)	Homo sapiens
+Q5RC04	RasGEF domain family, member 1B	Pongo abelii
+Q9VBW3	Tyrosine kinase receptor Cad96Ca	Drosophila melanogaster
+Q8BIE6	FERM domain containing 4A	Mus musculus
+Q6VAB6	kinase suppressor of ras 2	Homo sapiens
+P46058	Epidermal differentiation-specific protein	Cynops pyrrhogaster
+Q9CPX9	anaphase promoting complex subunit 11	Mus musculus
+Q9XT26	cyclin T1	Equus caballus
+Q8VE22	mitochondrial ribosomal protein S23; similar to Mrps23 protein	Mus musculus
+O60315	zinc finger E-box binding homeobox 2	Homo sapiens
+P70473	alpha-methylacyl-CoA racemase	Rattus norvegicus
+Q9WU78	programmed cell death 6 interacting protein	Mus musculus
+Q8N5H7	SH2 domain containing 3C	Homo sapiens
+Q4KMI4	zgc:110128	Danio rerio
+Q0VFD8	biogenesis of lysosomal organelles complex-1, subunit 1	Xenopus (Silurana) tropicalis
+Q5R481	septin 7	Pongo abelii
+O35344	karyopherin (importin) alpha 3	Mus musculus
+Q9H3S7	protein tyrosine phosphatase, non-receptor type 23	Homo sapiens
+Q6ZUX7	lipoma HMGIC fusion partner-like 2	Homo sapiens
+Q9WTR0	matrix metallopeptidase 16	Mus musculus
+Q9Z108	staufen (RNA binding protein) homolog 1 (Drosophila)	Mus musculus
+Q561L1	hypothetical protein MGC115169	Xenopus laevis
+A8WGF7	Protein spinster homolog 1	Xenopus (Silurana) tropicalis
+Q16822	phosphoenolpyruvate carboxykinase 2 (mitochondrial)	Homo sapiens
+Q32KI9	arylsulfatase i	Mus musculus
+P35978	kinesin heavy chain	Strongylocentrotus purpuratus
+Q0V9N0	SEC14-like 1	Xenopus (Silurana) tropicalis
+Q9DBN5	lon peptidase 2, peroxisomal	Mus musculus
+Q6PFR5	transformer 2 alpha homolog (Drosophila)	Mus musculus
+Q1RMR4	RAB15, member RAS onocogene family	Bos taurus
+Q8SQC1	scavenger receptor class B, member 1	Sus scrofa
+P98156	very low density lipoprotein receptor	Mus musculus
+A5D8M6	hypothetical protein LOC100049749	Xenopus laevis
+Q28D84	enhancer of zeste homolog 2 (Drosophila)	Xenopus (Silurana) tropicalis
+Q6DK91	eukaryotic translation initiation factor 3, subunit M	Xenopus (Silurana) tropicalis
+Q0VA61	hypoxia up-regulated 1	Xenopus (Silurana) tropicalis
+Q566I3	similar to calcium binding protein, 140 kDa	Xenopus laevis
+Q9QYM0	ATP-binding cassette, sub-family C (CFTR/MRP), member 5	Rattus norvegicus
+P04642	lactate dehydrogenase A; similar to L-lactate dehydrogenase A chain (LDH-A) (LDH muscle subunit) (LDH-M)	Rattus norvegicus
+Q08E38	PRP19/PSO4 pre-mRNA processing factor 19 homolog (S. cerevisiae)	Bos taurus
+Q6A009	ring finger protein 160	Mus musculus
+Q8AWF2	Nascent polypeptide-associated complex subunit alpha	Oreochromis niloticus
+Q6IN84	mitochondrial rRNA methyltransferase 1 homolog (S. cerevisiae)	Homo sapiens
+Q9C0A0	contactin associated protein-like 4	Homo sapiens
+Q58EM4	zgc:110816	Danio rerio
+P22682	similar to Casitas B-lineage lymphoma; Casitas B-lineage lymphoma	Mus musculus
+Q0D4Z6	Probable indole-3-acetic acid-amido synthetase GH3.8	Oryza sativa
+Q2HJ57	coactosin-like 1 (Dictyostelium)	Bos taurus
+Q62448	eukaryotic translation initiation factor 4, gamma 2	Mus musculus
+Q5ND34	WD repeat domain 81	Mus musculus
+Q95R48	Organic cation transporter 2	Drosophila melanogaster
+Q96LD8	SUMO/sentrin specific peptidase family member 8	Homo sapiens
+Q86XA9	HEAT repeat containing 5A	Homo sapiens
+P80147	4-aminobutyrate aminotransferase	Sus scrofa
+Q8BJ03	COX15 homolog, cytochrome c oxidase assembly protein (yeast)	Mus musculus
+Q8BZM1	glomulin, FKBP associated protein	Mus musculus
+Q15032	R3H domain containing 1	Homo sapiens
+Q3ZBD0	proteasome (prosome, macropain) 26S subunit, non-ATPase, 7	Bos taurus
+O14807	muscle RAS oncogene homolog	Homo sapiens
+Q29503	cell division cycle 34 homolog (S. cerevisiae)	Oryctolagus cuniculus
+Q6Y1H2	protein tyrosine phosphatase-like (proline instead of catalytic arginine), member b	Homo sapiens
+P11584	myospheroid	Drosophila melanogaster
+Q3SZX8	coiled-coil domain containing 25	Bos taurus
+O81884	AT4G33670	Arabidopsis thaliana
+P23978	solute carrier family 6 (neurotransmitter transporter, GABA), member 1	Rattus norvegicus
+A0JP86	laminin, gamma 1	Xenopus (Silurana) tropicalis
+P27169	paraoxonase 1	Homo sapiens
+Q86XE3	EF-hand domain family, member A2	Homo sapiens
+P20070	cytochrome b5 reductase 3	Rattus norvegicus
+Q99LE6	ATP-binding cassette, sub-family F (GCN20), member 2	Mus musculus
+P70549	solute carrier family 8 (sodium/calcium exchanger), member 3	Rattus norvegicus
+Q561R7	general transcription factor IIH, polypeptide 3	Rattus norvegicus
+Q29504	ubiquitin-activating enzyme E1	Oryctolagus cuniculus
+Q5U4S8	Ceramide glucosyltransferase-B	Xenopus laevis
+Q9Y2D8	synovial sarcoma, X breakpoint 2 interacting protein	Homo sapiens
+P30042	chromosome 21 open reading frame 33	Homo sapiens
+Q96PS8	aquaporin 10	Homo sapiens
+Q7SIB2	collagen, type IV, alpha 1	Bos taurus
+Q5UQP2	Uncharacterized protein L446	Acanthamoeba polyphaga mimivirus
+Q68CZ1	RPGRIP1-like	Homo sapiens
+Q7TMS5	ATP-binding cassette, sub-family G (WHITE), member 2	Mus musculus
+P18395	cold shock domain containing E1, RNA binding	Rattus norvegicus
+Q6PAX7	hypothetical protein MGC68560	Xenopus laevis
+Q9TU03	Rho GDP dissociation inhibitor (GDI) beta	Bos taurus
+Q9UKP5	ADAM metallopeptidase with thrombospondin type 1 motif, 6	Homo sapiens
+Q2NL31	methylthioribose-1-phosphate isomerase homolog (S. cerevisiae)	Bos taurus
+P00367	glutamate dehydrogenase 1	Homo sapiens
+Q21974	UNCoordinated	Caenorhabditis elegans
+Q3SYW2	complement component 2	Bos taurus
+Q6DRC4	eukaryotic translation initiation factor 3, subunit G	Danio rerio
+Q6NS52	diacylglycerol kinase, beta	Mus musculus
+Q6NZJ6	eukaryotic translation initiation factor 4, gamma 1	Mus musculus
+Q61824	a disintegrin and metallopeptidase domain 12 (meltrin alpha)	Mus musculus
+O05218	Putative gamma-glutamyltransferase ywrD	Bacillus subtilis
+Q9VCA2	Organic cation transporter	Drosophila melanogaster
+Q8BHR2	ecto-NOX disulfide-thiol exchanger 1	Mus musculus
+Q9JJ46	emopamil binding protein (sterol isomerase)	Rattus norvegicus
+P82343	renin binding protein	Mus musculus
+Q29611	ceroid-lipofuscinosis, neuronal 3	Canis lupus
+Q3ZCH0	heat shock 70kDa protein 9 (mortalin)	Bos taurus
+P26638	seryl-aminoacyl-tRNA synthetase	Mus musculus
+Q28FF3	myosin light polypeptide 5 regulatory	Xenopus (Silurana) tropicalis
+Q13905	Rap guanine nucleotide exchange factor (GEF) 1	Homo sapiens
+Q9H3S4	thiamin pyrophosphokinase 1	Homo sapiens
+Q99536	vesicle amine transport protein 1 homolog (T. californica)	Homo sapiens
+Q8IUX8	EGF-like-domain, multiple 6	Homo sapiens
+O75486	suppressor of Ty 3 homolog (S. cerevisiae)	Homo sapiens
+P42577	Soma ferritin	Lymnaea stagnalis
+P13716	aminolevulinate, delta-, dehydratase	Homo sapiens
+A8E7G4	family with sequence similarity 45, member A	Danio rerio
+Q49B93	solute carrier family 5 (sodium/glucose cotransporter), member 12	Mus musculus
+P70388	RAD50 homolog (S. cerevisiae)	Mus musculus
+Q9NTM9	cutC copper transporter homolog (E. coli)	Homo sapiens
+Q5U2S1	Nedd4 family interacting protein 1	Rattus norvegicus
+P81134	ATPase, H+ transporting, lysosomal accessory protein 2	Bos taurus
+Q4KLG9	zinc finger, AN1 type domain 2B	Rattus norvegicus
+P26884	FK506 binding protein 3, 25kDa	Bos taurus
+Q4KM79	dual specificity phosphatase 11 (RNA/RNP complex 1-interacting)	Rattus norvegicus
+Q8JG30	sulfotransferase family, cytosolic, 1B, member 1	Gallus gallus
+Q6PHY8	selenoprotein T, 1b	Danio rerio
+P00029	Cytochrome c	Asterias rubens
+Q921M3	splicing factor 3b, subunit 3	Mus musculus
+Q9ULZ9	matrix metallopeptidase 17 (membrane-inserted)	Homo sapiens
+Q6KAR6	exocyst complex component 3	Mus musculus
+Q5ZL23	amyloid beta (A4) precursor protein-binding, family B, member 1 interacting protein	Gallus gallus
+O46373	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 5	Oryctolagus cuniculus
+Q9Z2F6	B-cell leukemia/lymphoma 3	Mus musculus
+Q5PQS6	similar to RIKEN cDNA 1500002O20	Rattus norvegicus
+Q9UBI9	headcase homolog (Drosophila)	Homo sapiens
+P40792	Ras-related protein Rac1	Drosophila melanogaster
+Q9ESE1	LPS-responsive beige-like anchor	Mus musculus
+Q29041	ficolin	Sus scrofa
+Q9GZT4	serine racemase	Homo sapiens
+Q64319	solute carrier family 3, member 1	Rattus norvegicus
+Q28BM0	dymeclin	Xenopus (Silurana) tropicalis
+Q9H0H3	kelch-like 25 (Drosophila)	Homo sapiens
+Q5RCS0	ATG9 autophagy related 9 homolog A (S. cerevisiae)	Pongo abelii
+Q8IVF7	formin-like 3	Homo sapiens
+Q6GL11	chromatin modifying protein 4B	Xenopus (Silurana) tropicalis
+Q9Y566	SH3 and multiple ankyrin repeat domains 1	Homo sapiens
+P08582	antigen p97 (melanoma associated) identified by monoclonal antibodies 133.2 and 96.5	Homo sapiens
+Q29RI0	chaperone, ABC1 activity of bc1 complex homolog (S. pombe)	Bos taurus
+Q8F7W8	Peptide methionine sulfoxide reductase msrB	Leptospira interrogans
+Q29RN6	suppressor of cytokine signaling 5	Bos taurus
+P05183	cytochrome P450, family 3, subfamily a, polypeptide 2	Rattus norvegicus
+Q90744	N-acetylgalactosaminidase, alpha-	Gallus gallus
+P09848	lactase	Homo sapiens
+P06027	Echinoidin	Anthocidaris crassispina
+Q92544	transmembrane 9 superfamily protein member 4	Homo sapiens
+Q9TZM3	Leucine-rich repeats, Ras-like domain, Kinase	Caenorhabditis elegans
+P25325	mercaptopyruvate sulfurtransferase	Homo sapiens
+Q32NT4	hypothetical protein LOC398462	Xenopus laevis
+P59325	similar to Eukaryotic translation initiation factor 5; eukaryotic translation initiation factor 5	Mus musculus
+Q66HA4	Tax1 (human T-cell leukemia virus type I) binding protein 1	Rattus norvegicus
+Q8K4S1	phospholipase C, epsilon 1	Mus musculus
+Q5PRC1	lipoma HMGIC fusion partner	Danio rerio
+Q9UKG1	adaptor protein, phosphotyrosine interaction, PH domain and leucine zipper containing 1	Homo sapiens
+Q6PFQ2	eukaryotic translation initiation factor 3, subunit C	Danio rerio
+Q98TX3	programmed cell death 4 (neoplastic transformation inhibitor)	Gallus gallus
+P25867	effete	Drosophila melanogaster
+Q9NZJ4	spastic ataxia of Charlevoix-Saguenay (sacsin)	Homo sapiens
+Q9Y4P3	transducin (beta)-like 2	Homo sapiens
+Q4V8S3	si:dkey-60a16.5	Danio rerio
+Q08209	protein phosphatase 3 (formerly 2B), catalytic subunit, alpha isoform	Homo sapiens
+O94985	calsyntenin 1	Homo sapiens
+O95478	hypothetical gene supported by NM_014886; TGF beta-inducible nuclear protein 1; similar to TGF beta-inducible nuclear protein 1	Homo sapiens
+Q8BGV4	cDNA sequence BC019943	Mus musculus
+Q8K4T5	dual specificity phosphatase 19	Mus musculus
+P97433	Rho-guanine nucleotide exchange factor	Mus musculus
+Q3ZBH0	chaperonin containing TCP1, subunit 2 (beta)	Bos taurus
+P19182	interferon-related developmental regulator 1	Mus musculus
+Q28199	cyclin-dependent kinase 5, regulatory subunit 1 (p35)	Bos taurus
+Q8K4C0	flavin containing monooxygenase 5	Rattus norvegicus
+O35488	solute carrier family 27 (fatty acid transporter), member 2	Mus musculus
+P01024	similar to Complement C3 precursor; complement component 3; hypothetical protein LOC100133511	Homo sapiens
+P56489	cholinergic receptor, muscarinic 1	Macaca mulatta
+Q9GL24	cathepsin L2	Canis lupus
+O70497	ficolin B	Mus musculus
+Q501L1	hypothetical protein mgc108476	Xenopus (Silurana) tropicalis
+A2AVA0	sushi, von Willebrand factor type A, EGF and pentraxin domain containing 1	Mus musculus
+Q9H2U1	DEAH (Asp-Glu-Ala-His) box polypeptide 36	Homo sapiens
+A7Y2W8	glycine transporter 1	Xenopus laevis
+Q9UGM3	deleted in malignant brain tumors 1	Homo sapiens
+P60901	proteasome (prosome, macropain) subunit, alpha type 6	Rattus norvegicus
+Q4G0U5	primary ciliary dyskinesia protein 1	Homo sapiens
+O43242	proteasome (prosome, macropain) 26S subunit, non-ATPase, 3	Homo sapiens
+Q06806	tyrosine kinase with immunoglobulin-like and EGF-like domains 1	Mus musculus
+P23975	solute carrier family 6 (neurotransmitter transporter, noradrenalin), member 2	Homo sapiens
+Q761V0	similar to Sodium- and chloride-dependent glycine transporter 2 (GlyT2) (GlyT-2) (Solute carrier family 6 member 5); solute carrier family 6 (neurotransmitter transporter, glycine), member 5	Mus musculus
+Q5ZJK8	chaperonin containing TCP1, subunit 7 (eta)	Gallus gallus
+Q00945	Conopressin/neurophysin	Lymnaea stagnalis
+O88281	multiple EGF-like-domains 6	Rattus norvegicus
+P28648	Cd63 molecule	Rattus norvegicus
+P49013	fibropellin c	Strongylocentrotus purpuratus
+Q9C0D6	FH2 domain containing 1	Homo sapiens
+Q5RCC9	H3 histone, family 3B (H3.3B)	Pongo abelii
+Q9Y620	RAD54 homolog B (S. cerevisiae)	Homo sapiens
+P54613	protein phosphatase 2 (formerly 2A), regulatory subunit A, beta isoform	Sus scrofa
+Q8K4L3	supervillin	Mus musculus
+Q9W4P5	V-type proton ATPase subunit d 1	Drosophila melanogaster
+Q9UQ35	serine/arginine repetitive matrix 2; hypothetical LOC100132779	Homo sapiens
+Q9D8N3	transmembrane protein 86A	Mus musculus
+Q95XZ6	Y43H11AL.2	Caenorhabditis elegans
+P42357	histidine ammonia-lyase	Homo sapiens
+Q0V9E9	SET domain containing (lysine methyltransferase) 8	Xenopus (Silurana) tropicalis
+Q9WTR6	solute carrier family 7 (cationic amino acid transporter, y+ system), member 11	Mus musculus
+Q90593	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa)	Gallus gallus
+Q9TUG2	SKI	Equus caballus
+Q9BYN7	zinc finger protein 341	Homo sapiens
+P23471	protein tyrosine phosphatase, receptor-type, Z polypeptide 1	Homo sapiens
+Q3MHL7	chaperonin containing TCP1, subunit 6A (zeta 1)	Bos taurus
+P46023	G-protein coupled receptor GRL101	Lymnaea stagnalis
+Q6DCX5	MGC80576 protein	Xenopus laevis
+P41234	ATP-binding cassette, sub-family A (ABC1), member 2	Mus musculus
+Q5I085	hypothetical LOC496958	Xenopus (Silurana) tropicalis
+A9MH27	Glyoxylate/hydroxypyruvate reductase A	Salmonella enterica
+Q9QZU7	butyrobetaine (gamma), 2-oxoglutarate dioxygenase (gamma-butyrobetaine hydroxylase) 1	Rattus norvegicus
+Q29499	acetylcholinesterase	Oryctolagus cuniculus
+Q86Y82	syntaxin 12	Homo sapiens
+P13216	ferredoxin 1	Gallus gallus
+Q3UDK1	TRAF type zinc finger domain containing 1	Mus musculus
+Q641Z2	protein tyrosine phosphatase, non-receptor type 9	Rattus norvegicus
+Q0P4S0	FYVE type zinc finger containing protein (XE998)	Xenopus (Silurana) tropicalis
+P49088	asparagine synthetase	Rattus norvegicus
+Q6RUV5	ras-related C3 botulinum toxin substrate 1	Rattus norvegicus
+P27463	aldehyde dehydrogenase 1 family, member A1	Gallus gallus
+P08635	oleoyl-ACP hydrolase	Rattus norvegicus
+Q8BX70	vacuolar protein sorting 13C (yeast)	Mus musculus
+P21836	acetylcholinesterase	Mus musculus
+Q8BYI9	tenascin R	Mus musculus
+P70541	eukaryotic translation initiation factor 2B, subunit 3 gamma	Rattus norvegicus
+Q8BHT7	RGP1 retrograde golgi transport homolog (S. cerevisiae)	Mus musculus
+Q03347	runt related transcription factor 1	Mus musculus
+Q5ZKM1	FtsJ homolog 3 (E. coli)	Gallus gallus
+Q90XD2	agmatine ureohydrolase (agmatinase)	Gallus gallus
+Q7SXS8	zgc:101819	Danio rerio
+P10079	fibropellin I	Strongylocentrotus purpuratus
+Q99L45	similar to Eif2s2 protein; eukaryotic translation initiation factor 2, subunit 2 (beta)	Mus musculus
+Q9ES00	ubiquitination factor E4B, UFD2 homolog (S. cerevisiae)	Mus musculus
+Q5ZKR7	acyl-CoA synthetase bubblegum family member 2	Gallus gallus
+B5DEQ3	X-prolyl aminopeptidase (aminopeptidase P) 3, putative	Rattus norvegicus
+Q8BGT0	osteopetrosis associated transmembrane protein 1	Mus musculus
+Q5R511	heat shock 70kDa protein 9 (mortalin)	Pongo abelii
+P22232	FIB	Xenopus laevis
+Q3V1H3	hephaestin-like 1	Mus musculus
+P11611	protein phosphatase 2 (formerly 2A), catalytic subunit, beta isoform	Oryctolagus cuniculus
+Q9R0S2	matrix metallopeptidase 24	Mus musculus
+P49615	cyclin-dependent kinase 5	Mus musculus
+P62321	small nuclear ribonucleoprotein polypeptide F	Xenopus laevis
+Q8BYK4	retinol dehydrogenase 12	Mus musculus
+P08594	Aqualysin-1	Thermus aquaticus
+Q6UB99	ankyrin repeat domain 11; hypothetical protein LOC100128265	Homo sapiens
+Q61321	sine oculis-related homeobox 4 homolog (Drosophila)	Mus musculus
+P15505	glycine dehydrogenase (decarboxylating)	Gallus gallus
+Q9QX47	Son DNA binding protein	Mus musculus
+P35822	protein tyrosine phosphatase, receptor type, K	Mus musculus
+Q6AZN6	phosphoinositide-3-kinase, class 3	Xenopus laevis
+Q8BX05	glycerol kinase 5 (putative)	Mus musculus
+P53804	tetratricopeptide repeat domain 3; tetratricopeptide repeat domain 3-like	Homo sapiens
+P47736	RAP1 GTPase activating protein	Homo sapiens
+P48818	acyl-coenzyme A dehydrogenase, very long chain	Bos taurus
+P26932	calponin alpha	Gallus gallus
+Q5EAJ7	major vault protein	Strongylocentrotus purpuratus
+Q99K85	similar to Phosphoserine aminotransferase 1; phosphoserine aminotransferase 1	Mus musculus
+A7MB54	H2.0-like homeobox	Bos taurus
+Q8VDM4	predicted gene 5422; proteasome (prosome, macropain) 26S subunit, non-ATPase, 2	Mus musculus
+A2VDS1	selenocysteine lyase	Bos taurus
+Q5R9A7	G protein-coupled receptor 155	Pongo abelii
+Q9D8N6	predicted gene 8802; lin-37 homolog (C. elegans)	Mus musculus
+Q6PEH8	mediator of RNA polymerase II transcription, subunit 25 homolog (yeast)	Danio rerio
+Q60636	PR domain containing 1, with ZNF domain	Mus musculus
+Q5RB37	inter-alpha (globulin) inhibitor H3	Pongo abelii
+O35464	sema domain, transmembrane domain (TM), and cytoplasmic domain, (semaphorin) 6A	Mus musculus
+P48601	Proteasome 26S subunit subunit 4 ATPase	Drosophila melanogaster
+Q9BWU0	solute carrier family 4 (anion exchanger), member 1, adaptor protein	Homo sapiens
+Q5RAV6	RAB6A, member RAS oncogene family	Pongo abelii
+Q5ZIV1	myotubularin related protein 2	Gallus gallus
+O61367	arginine kinase	Apis mellifera
+Q9VZI3	Fermitin 1	Drosophila melanogaster
+Q9WUN2	TANK-binding kinase 1	Mus musculus
+Q2LAP6	testis derived transcript	Rattus norvegicus
+Q7ZUP1	family with sequence similarity 46, member C	Danio rerio
+Q8R0A7	RIKEN cDNA 6430548M08 gene	Mus musculus
+Q6PCS4	Rho GTPase activating protein 29	Danio rerio
+P49109	flavin containing monooxygenase 5	Cavia porcellus
+Q6DHL4	zgc:92241	Danio rerio
+Q5M7F8	UPF0573 protein A	Xenopus laevis
+Q6UWV6	ectonucleotide pyrophosphatase/phosphodiesterase 7	Homo sapiens
+Q5I0J5	MIT, microtubule interacting and transport, domain containing 1	Rattus norvegicus
+O60285	NUAK family, SNF1-like kinase, 1	Homo sapiens
+Q6GQ29	MGC80390 protein	Xenopus laevis
+O84402	Ribonuclease R	Chlamydia trachomatis
+Q6PB06	Probable phosphotransferase LOC123688 homolog	Xenopus laevis
+Q5R6X7	chromobox homolog 3 (HP1 gamma homolog, Drosophila)	Pongo abelii
+O00482	nuclear receptor subfamily 5, group A, member 2	Homo sapiens
+Q9CZP0	UFM1-specific peptidase 1	Mus musculus
+Q9Y5Y0	feline leukemia virus subgroup C cellular receptor 1	Homo sapiens
+Q5RE48	AKT interacting protein	Pongo abelii
+Q5QQ56	xylosyltransferase I	Canis lupus
+Q8NBN7	retinol dehydrogenase 13 (all-trans/9-cis)	Homo sapiens
+Q9WU22	protein tyrosine phosphatase, non-receptor type 4	Mus musculus
+Q69BJ8	Cytochrome b-c1 complex subunit Rieske, mitochondrial	Lagothrix lagotricha
+Q09575	Uncharacterized protein K02A2.6	Caenorhabditis elegans
+Q6UX65	DNA-damage regulated autophagy modulator 2	Homo sapiens
+Q9N2I9	uncoupling protein 3 (mitochondrial, proton carrier)	Canis lupus
+P41386	Tubulin beta chain	Haliotis discus
+Q8R0S2	IQ motif and Sec7 domain 1	Mus musculus
+Q7TQI7	ankyrin repeat and BTB (POZ) domain containing 2	Mus musculus
+Q1HG43	dual oxidase maturation factor 1	Homo sapiens
+Q29RH4	THO complex 3	Bos taurus
+Q0VA16	WD domain containing protein like, GAstrulation Defective GAD-1 (69.0 kD) (gad-1)	Xenopus (Silurana) tropicalis
+Q9D2Y4	mixed lineage kinase domain-like	Mus musculus
+Q6ZV73	FYVE, RhoGEF and PH domain containing 6	Homo sapiens
+Q9QUR6	prolyl endopeptidase	Mus musculus
+Q8BGC3	solute carrier family 16 (monocarboxylic acid transporters), member 12	Mus musculus
+Q91VS7	microsomal glutathione S-transferase 1	Mus musculus
+P41383	Tubulin alpha-2/alpha-4 chain	Patella vulgata
+Q5ZJR8	ELOVL family member 6, elongation of long chain fatty acids (FEN1/Elo2, SUR4/Elo3-like, yeast)	Gallus gallus
+Q8WX92	cofactor of BRCA1	Homo sapiens
+O54988	STE20-like kinase (yeast)	Mus musculus
+Q91YE3	EGL nine homolog 1 (C. elegans)	Mus musculus
+Q04861	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1	Gallus gallus
+Q2KIA4	stearoyl-CoA desaturase 5	Bos taurus
+Q9U5L1	GTP-binding protein	Drosophila melanogaster
+Q9VZ23	GTP-binding nuclear protein Ran	Drosophila melanogaster
+A9UMS3	prohibitin 2	Xenopus (Silurana) tropicalis
+Q80U30	C-type lectin domain family 16, member A	Mus musculus
+Q8JFP1	eukaryotic translation initiation factor 4A, isoform 2	Gallus gallus
+Q8P3H1	Xylose isomerase 1; Xylose isomerase 2	Xanthomonas campestris
+Q7L622	G2/M-phase specific E3 ubiquitin ligase	Homo sapiens
+Q6PCJ9	hypothetical protein MGC68884	Xenopus laevis
+Q8IY22	c-Maf-inducing protein	Homo sapiens
+Q0P563	hypothetical protein LOC613571	Bos taurus
+Q28HN4	hypothetical protein LOC549250	Xenopus (Silurana) tropicalis
+Q66T02	pleckstrin homology domain containing, family G (with RhoGef domain) member 5	Mus musculus
+Q3UMR5	coiled-coil domain containing 109A	Mus musculus
+A4IGP0	hypothetical protein LOC100037885	Xenopus (Silurana) tropicalis
+P10809	heat shock 60kDa protein 1 (chaperonin) pseudogene 5; heat shock 60kDa protein 1 (chaperonin) pseudogene 6; heat shock 60kDa protein 1 (chaperonin) pseudogene 1; heat shock 60kDa protein 1 (chaperonin) pseudogene 4; heat shock 60kDa protein 1 (chaperonin)	Homo sapiens
+O05408	Uncharacterized oxidoreductase yrpG	Bacillus subtilis
+Q9YHT4	aminolevulinate, delta-, synthetase 2	Danio rerio
+Q96P48	ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 1	Homo sapiens
+Q9D994	WD repeat domain 38	Mus musculus
+Q32KH9	arylsulfatase G	Canis lupus
+P46471	proteasome (prosome, macropain) 26S subunit, ATPase 2	Mus musculus
+P42125	dodecenoyl-Coenzyme A delta isomerase (3,2 trans-enoyl-Coenyme A isomerase)	Mus musculus
+O00232	proteasome (prosome, macropain) 26S subunit, non-ATPase, 12	Homo sapiens
+O43196	mutS homolog 5 (E. coli)	Homo sapiens
+Q66JF3	mknk1 protein	Xenopus (Silurana) tropicalis
+Q9BXM7	PTEN induced putative kinase 1	Homo sapiens
+Q8TE73	dynein, axonemal, heavy chain 5	Homo sapiens
+Q4KMD3	small nuclear ribonucleoprotein 35 (U11/U12)	Danio rerio
+P53992	SEC24 family, member C (S. cerevisiae)	Homo sapiens
+Q13454	tumor suppressor candidate 3	Homo sapiens
+Q9NVP1	DEAD (Asp-Glu-Ala-Asp) box polypeptide 18	Homo sapiens
+A7RM20	Eukaryotic translation initiation factor 3 subunit I	Nematostella vectensis
+Q96P53	WD repeat and FYVE domain containing 2	Homo sapiens
+Q5JR59	KIAA0774	Homo sapiens
+P53395	dihydrolipoamide branched chain transacylase E2	Mus musculus
+Q94887	Neurexin IV	Drosophila melanogaster
+Q9NR30	DEAD (Asp-Glu-Ala-Asp) box polypeptide 21	Homo sapiens
+P14733	lamin B1	Mus musculus
+Q9R144	protein arginine N-methyltransferase 2	Mus musculus
+O95238	SAM pointed domain containing ets transcription factor	Homo sapiens
+Q8K268	ATP-binding cassette, sub-family F (GCN20), member 3	Mus musculus
+P41971	ELK3, member of ETS oncogene family	Mus musculus
+P28480	t-complex 1	Rattus norvegicus
+Q94738	97 kDa heat shock protein	Strongylocentrotus franciscanus
+Q4PLW0	adipose differentiation-related protein	Sus scrofa
+Q9BT23	LIM domain containing 2	Homo sapiens
+O55029	coatomer protein complex, subunit beta 2 (beta prime)	Mus musculus
+Q6DGF4	zinc finger, AN1-type domain 6	Rattus norvegicus
+O08700	vacuolar protein sorting 45 homolog (S. cerevisiae)	Rattus norvegicus
+Q80W93	hydrocephalus inducing	Mus musculus
+P21129	solute carrier family 10 (sodium/bile acid cotransporter family), member 3	Mus musculus
+Q28DL4	TNF receptor-associated factor 6	Xenopus (Silurana) tropicalis
+P41233	ATP-binding cassette, sub-family A (ABC1), member 1	Mus musculus
+A2AAY5	SH3 and PX domains 2B	Mus musculus
+P23787	valosin containing protein	Xenopus laevis
+P14316	interferon regulatory factor 2	Homo sapiens
+Q13217	DnaJ (Hsp40) homolog, subfamily C, member 3	Homo sapiens
+P13280	glycogenin 1	Oryctolagus cuniculus
+Q9TR36	phosphatidylinositol transfer protein, beta	Bos taurus
+Q66HR2	microtubule-associated protein, RP/EB family, member 1; similar to Microtubule-associated protein RP/EB family member 1 (APC-binding protein EB1) (End-binding protein 1) (EB1)	Rattus norvegicus
+Q5I0I9	coenzyme Q10 homolog B (S. cerevisiae)	Rattus norvegicus
+Q14155	Rho guanine nucleotide exchange factor (GEF) 7	Homo sapiens
+O75351	vacuolar protein sorting 4 homolog B (S. cerevisiae)	Homo sapiens
+P35223	Catenin beta	Tripneustes gratilla
+Q90YK5	heparanase	Gallus gallus
+Q99LB0	deoxynucleotidyltransferase, terminal, interacting protein 1	Mus musculus
+P25788	proteasome (prosome, macropain) subunit, alpha type, 3	Homo sapiens
+P97717	adrenergic receptor, alpha 1b	Mus musculus
+Q24322	Semaphorin-1A	Drosophila melanogaster
+Q7YS91	cell cycle progression 2 protein	Sus scrofa
+Q8N0X4	citrate lyase beta like	Homo sapiens
+O00303	eukaryotic translation initiation factor 3, subunit F; similar to hCG2040283	Homo sapiens
+Q5R7A2	asparagine-linked glycosylation 1, beta-1,4-mannosyltransferase homolog (S. cerevisiae)	Pongo abelii
+Q96BD6	splA/ryanodine receptor domain and SOCS box containing 1	Homo sapiens
+A4II46	Active breakpoint cluster region-related protein	Xenopus (Silurana) tropicalis
+Q17QJ5	tetraspanin 5	Bos taurus
+Q13371	phosducin-like	Homo sapiens
+Q9Y223	glucosamine (UDP-N-acetyl)-2-epimerase/N-acetylmannosamine kinase	Homo sapiens
+Q9DCT5	stromal cell derived factor 2	Mus musculus
+P55115	Nematode AStacin protease	Caenorhabditis elegans
+Q9GZR5	elongation of very long chain fatty acids (FEN1/Elo2, SUR4/Elo3, yeast)-like 4	Homo sapiens
+O59028	Malate dehydrogenase	Pyrococcus horikoshii
+O77245	Nuclear hormone receptor E75	Metapenaeus ensis
+Q9GKX2	dehydrogenase/reductase (SDR family) member 4	Oryctolagus cuniculus
+Q6PJ21	splA/ryanodine receptor domain and SOCS box containing 3	Homo sapiens
+Q96EV8	dystrobrevin binding protein 1	Homo sapiens
+Q7Z449	cytochrome P450, family 2, subfamily U, polypeptide 1	Homo sapiens
+O95164	ubiquitin-like 3	Homo sapiens
+Q99615	DnaJ (Hsp40) homolog, subfamily C, member 7	Homo sapiens
+Q9D0K0	TBC1 domain family, member 7	Mus musculus
+Q62829	p21 protein (Cdc42/Rac)-activated kinase 3	Rattus norvegicus
+P41148	heat shock protein 90kDa beta (Grp94), member 1	Canis lupus
+C3XVT5	BRAFLDRAFT_59218	Branchiostoma floridae
+Q6P268	hypothetical protein LOC100149967; phosducin-like 3	Danio rerio
+P91119	PhosphoDiEsterase	Caenorhabditis elegans
+Q13951	core-binding factor, beta subunit	Homo sapiens
+P15104	glutamate-ammonia ligase (glutamine synthetase)	Homo sapiens
+Q9H0E2	toll interacting protein	Homo sapiens
+P54612	protein phosphatase 2 (formerly 2A), regulatory subunit A, alpha isoform	Sus scrofa
+Q8TCT9	histocompatibility (minor) 13	Homo sapiens
+P31404	ATPase, H+ transporting, lysosomal 70kDa, V1 subunit A	Bos taurus
+P15170	G1 to S phase transition 1	Homo sapiens
+Q5MB13	breast cancer resistance protein	Macaca mulatta
+Q96PB1	CAS1 domain containing 1	Homo sapiens
+Q0VD26	MORN repeat containing 4	Bos taurus
+Q99676	zinc finger protein 184	Homo sapiens
+Q1LZB6	cell cycle associated protein 1	Bos taurus
+Q5ZLY5	pleckstrin homology domain containing, family F (with FYVE domain) member 2	Gallus gallus
+Q6TUG0	DnaJ (Hsp40) homolog, subfamily B, member 11	Rattus norvegicus
+Q7T010	zgc:73273	Danio rerio
+O95628	CCR4-NOT transcription complex, subunit 4	Homo sapiens
+P97524	solute carrier family 27 (fatty acid transporter), member 2	Rattus norvegicus
+P00125	cytochrome c-1	Bos taurus
+Q3ZBG9	phospholipid scramblase 1	Bos taurus
+Q5R4F4	SEC31 homolog A (S. cerevisiae)	Pongo abelii
+A5GFY8	phosphoglycerate dehydrogenase	Sus scrofa
+Q9HAR2	latrophilin 3	Homo sapiens
+Q5VVW2	GTPase activating Rap/RanGAP domain-like 3	Homo sapiens
+Q5U5V2	RIKEN cDNA C630028N24 gene	Mus musculus
+P35604	coatomer protein complex, subunit zeta 1	Bos taurus
+Q9GR88	Eukaryotic peptide chain release factor subunit 1	Polyandrocarpa misakiensis
+Q29RM1	solute carrier family 25 (mitochondrial thiamine pyrophosphate carrier), member 19	Bos taurus
+Q96MC6	hippocampus abundant transcript 1	Homo sapiens
+P91620	still life	Drosophila melanogaster
+Q8C0I1	alkylglycerone phosphate synthase	Mus musculus
+Q7ZVZ7	similar to Abhydrolase domain-containing protein FAM108C1; zgc:55468	Danio rerio
+Q5EB77	RAB18, member RAS oncogene family	Rattus norvegicus
+Q13045	flightless I homolog (Drosophila)	Homo sapiens
+Q9JIX8	apoptotic chromatin condensation inducer 1	Mus musculus
+P51644	hypothetical protein LOC398551	Xenopus laevis
+Q498L0	hypothetical protein MGC114633	Xenopus laevis
+Q01063	phosphodiesterase 4D, cAMP specific	Mus musculus
+O88831	calcium/calmodulin-dependent protein kinase kinase 2, beta	Rattus norvegicus
+Q9DFZ4	Churchill protein	Xenopus laevis
+Q6DEL2	cleft lip and palate associated transmembrane protein 1	Danio rerio
+Q8N5U6	ring finger protein 10	Homo sapiens
+Q5I0R4	hypothetical LOC496912	Xenopus (Silurana) tropicalis
+P55345	protein arginine methyltransferase 2	Homo sapiens
+Q38SD2	leucine-rich repeat kinase 1	Homo sapiens
+B0FYY4	integrin, beta 1 (fibronectin receptor, beta polypeptide, antigen CD29 includes MDF2, MSK12)	Ovis aries
+Q91YR1	twinfilin, actin-binding protein, homolog 1 (Drosophila); predicted gene 4887	Mus musculus
+Q9VGY6	Protein skeletor; DOMON domain-containing protein CG14681	Drosophila melanogaster
+Q00685	Complement C3	Lethenteron japonicum
+Q9PWA0	regulator of G-protein signaling 17	Gallus gallus
+P05689	cathepsin Z	Bos taurus
+O77656	matrix metallopeptidase 13 (collagenase 3)	Bos taurus
+Q08E66	WAP, follistatin/kazal, immunoglobulin, kunitz and netrin domain containing 2	Bos taurus
+B5DE73	hypothetical protein LOC100216215	Xenopus (Silurana) tropicalis
+Q2T9X2	chaperonin containing TCP1, subunit 4 (delta)	Bos taurus
+Q6GNG8	MGC82814 protein	Xenopus laevis
+Q9WVA3	budding uninhibited by benzimidazoles 3 homolog (S. cerevisiae)	Mus musculus
+P34885	Protein Kinase C	Caenorhabditis elegans
+Q05423	fatty acid binding protein 7, brain	Gallus gallus
+Q32NH8	1-phosphatidylinositol-4,5-bisphosphate phosphodiesterase delta 4	Xenopus laevis
+Q9NJ15	Proprotein convertase subtilisin/kexin type 5	Branchiostoma californiense
+Q5R5V4	integrin-linked kinase	Pongo abelii
+P11029	acetyl-Coenzyme A carboxylase alpha	Gallus gallus
+O68965	Inositol 2-dehydrogenase	Sinorhizobium meliloti
+O73817	proteasome subunit C10-11	Oncorhynchus mykiss
+Q8AVG9	glutaminyl-tRNA synthase (glutamine-hydrolyzing)-like 1	Xenopus laevis
+Q60722	transcription factor 4	Mus musculus
+Q5RB40	histocompatibility (minor) HA-1	Pongo abelii
+Q14588	zinc finger protein 234	Homo sapiens
+P09917	arachidonate 5-lipoxygenase	Homo sapiens
+Q13702	receptor-associated protein of the synapse	Homo sapiens
+Q9BG94	Nuclear receptor subfamily 0 group B member 1	Callithrix jacchus
+P33945	wingless-type MMTV integration site family, member 5	Xenopus laevis
+Q8WXX0	dynein, axonemal, heavy chain 7	Homo sapiens
+Q9V3G7	26S proteasome non-ATPase regulatory subunit 6	Drosophila melanogaster
+Q9UM22	ependymin related protein 1 (zebrafish)	Homo sapiens
+P09324	v-yes-1 Yamaguchi sarcoma viral oncogene homolog 1	Gallus gallus
+A2VDP6	family with sequence similarity 55, member C	Bos taurus
+P97280	Inter-alpha-trypsin inhibitor heavy chain H3	Mesocricetus auratus
+Q90889	v-maf musculoaponeurotic fibrosarcoma oncogene homolog G (avian)	Gallus gallus
+Q06496	solute carrier family 34 (sodium phosphate), member 1	Rattus norvegicus
+Q5EB73	similar to RIKEN cDNA 2810432L12	Rattus norvegicus
+P48809	Heterogeneous nuclear ribonucleoprotein at 27C	Drosophila melanogaster
+B2GUZ1	ubiquitin specific peptidase 4 (proto-oncogene)	Rattus norvegicus
+Q09225	Nose Resistant to Fluoxetine	Caenorhabditis elegans
+P30622	CAP-GLY domain containing linker protein 1	Homo sapiens
+P13010	X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining)	Homo sapiens
+P28622	Endoglucanase 4	Bacillus sp. KSM-522
+Q6P823	MGC89877 protein	Xenopus (Silurana) tropicalis
+Q5R4J5	DKFZP459P193 protein	Pongo abelii
+P84104	predicted gene 7509; splicing factor, arginine/serine-rich 3 (SRp20); similar to MGC89287 protein; predicted gene 9761; predicted gene 7083	Mus musculus
+Q3SY69	aldehyde dehydrogenase 1 family, member L2	Homo sapiens
+Q8WWW0	Ras association (RalGDS/AF-6) domain family member 5	Homo sapiens
+Q6ZT12	ubiquitin protein ligase E3 component n-recognin 3 (putative)	Homo sapiens
+Q9H3F6	potassium channel tetramerisation domain containing 10	Homo sapiens
+Q8N954	coiled-coil domain containing 75	Homo sapiens
+Q8BKC5	hypothetical protein LOC100044315; importin 5	Mus musculus
+Q9Y2F5	KIAA0947	Homo sapiens
+Q68F72	MGC80026 protein	Xenopus laevis
+P08775	polymerase (RNA) II (DNA directed) polypeptide A	Mus musculus
+P59723	hypoxia-inducible factor 1, alpha subunit inhibitor	Danio rerio
+Q5RBP9	macrophage expressed 1	Pongo abelii
+O15027	SEC16 homolog A (S. cerevisiae)	Homo sapiens
+P05708	hexokinase 1	Rattus norvegicus
+O14522	protein tyrosine phosphatase, receptor type, T	Homo sapiens
+Q9DCN1	nudix (nucleoside diphosphate linked moiety X)-type motif 12	Mus musculus
+P53445	Fructose-bisphosphate aldolase, muscle type	Lethenteron japonicum
+P24899	T-cell acute lymphocytic leukemia 1	Gallus gallus
+Q9W735	prominin 1a	Danio rerio
+Q5RFU0	sialic acid acetylesterase	Pongo abelii
+P52209	phosphogluconate dehydrogenase	Homo sapiens
+Q8TAQ5	zinc finger protein 420	Homo sapiens
+Q8K1T0	transmembrane protease, serine 3	Mus musculus
+Q6ZMW2	zinc finger protein 782	Homo sapiens
+Q9BYK8	peroxisomal proliferator-activated receptor A interacting complex 285	Homo sapiens
+Q5ZL67	nuclear factor (erythroid-derived 2)-like 1	Gallus gallus
+Q2LAM0	fatty acid 2-hydroxylase	Rattus norvegicus
+P56520	histone deacetylase 3	Gallus gallus
+Q99958	forkhead box C2 (MFH-1, mesenchyme forkhead 1)	Homo sapiens
+Q9Y2Q0	ATPase, aminophospholipid transporter (APLT), class I, type 8A, member 1	Homo sapiens
+Q8TDX6	chondroitin sulfate N-acetylgalactosaminyltransferase 1	Homo sapiens
+Q5F3L9	chromosome 6 open reading frame 32	Gallus gallus
+P58682	toll-like receptor 8	Mus musculus
+Q9UDY8	mucosa associated lymphoid tissue lymphoma translocation gene 1	Homo sapiens
+P61082	ubiquitin-conjugating enzyme E2M (UBC12 homolog, yeast)	Mus musculus
+Q6NZW8	ADP-ribosylation factor-like 8Ba	Danio rerio
+Q6P823	H3 histone, family 3B (H3.3B)	Xenopus (Silurana) tropicalis
+Q9UPR0	phospholipase C-like 2	Homo sapiens
+Q6P8M1	TatD DNase domain containing 1	Mus musculus
+Q08BU1	mediator of RNA polymerase II transcription, subunit 8 homolog (yeast)	Xenopus (Silurana) tropicalis
+P54725	RAD23 homolog A (S. cerevisiae)	Homo sapiens
+Q9P0J7	potassium channel modulatory factor 1	Homo sapiens
+Q6EE31	chaperonin containing TCP1, subunit 8 (theta)	Gallus gallus
+Q99MN1	similar to lysyl-tRNA synthetase; lysyl-tRNA synthetase	Mus musculus
+Q8IWY4	signal peptide, CUB domain, EGF-like 1	Homo sapiens
+Q9UGM6	tryptophanyl tRNA synthetase 2, mitochondrial	Homo sapiens
+Q689D1	toll-like receptor 2	Canis lupus
+Q5RFI8	phosphoglucomutase 2	Pongo abelii
+P33947	KDEL (Lys-Asp-Glu-Leu) endoplasmic reticulum protein retention receptor 2	Homo sapiens
+O15118	Niemann-Pick disease, type C1	Homo sapiens
+Q2TBI2	THAP domain containing 4	Bos taurus
+P55036	proteasome (prosome, macropain) 26S subunit, non-ATPase, 4	Homo sapiens
+B7ZCC9	G protein-coupled receptor 112	Mus musculus
+O75936	butyrobetaine (gamma), 2-oxoglutarate dioxygenase (gamma-butyrobetaine hydroxylase) 1	Homo sapiens
+P61460	DEP domain containing 5	Mus musculus
+Q5U3Y5	SFT2 domain containing 1	Rattus norvegicus
+Q9Z2U1	proteasome (prosome, macropain) subunit, alpha type 5	Mus musculus
+P16393	HMGCoA reductase	Strongylocentrotus purpuratus
+O14874	branched chain ketoacid dehydrogenase kinase	Homo sapiens
+Q5MJS3	family with sequence similarity 20, member C	Mus musculus
+	Q29384		
+	Q64I00		
+	D3ZVP7		
+	A5HNF6		
+	Q9PTW9		
+	F6P3G4		
+	Q28F07		
+	D0Z9R0		
+	Q9IB84		
+	Q9U943		
+	Q4R6V2		
+	P31403		
+	P54814		
+	Q58A42		
+	O54981		
+	P0CC00		
+	Q04832		
+	Q54BU4		
+	Column3		
+	P20690		
+	P0CG13		
+	O75343		
+	P02740		
+	P14133		
+	E1C7T6		
+	Q869V1		
+	P14380		
+	E1BPN0		
+	P43141		
+	O02833		
+	B6P4U0		
+	Q4R562		
+	Q4R5V2		
+	Q6B4U9		
+	Q86GC8		
+	Q26534		
+	P94681		
+	D3ZPX4		
+	Q91090		
+	P28175		
+	Q4R5G7		
+	Q9XY07		
+	Q90368		
+	Q29261		
+	Q0ZDF7		
+	Q8MPM1		
+	P04323		
+	D4A1J4		
+	P34147		
+	P33497		
+	Q9U8W7		
+	Q55E72		
+	Q75JF3		
+	F7J220		
+	O35920		
+	P51821		
+	Q4R4Q6		
+	P81601		
+	Q8HYJ4		
+	E1C231		
+	Q54HH2		
+	Q8I7P9		
+	P31319		
+	Q54F25		
+	Q4AEH5		
+	Q8HYL8		
+	Q5DC69		
+	P14198		
+	P62335		
+	Q54TR1		
+	Q91175		
+	Q75J93		
+	Q60HF3		
+	Q95NR9		
+	O54694		
+	Q54KA7		
+	P21328		
+	Q1KKZ1		
+	O57478		
+	P54632		
+	P10160		
+	Q9MYM7		
+	E1BK52		
