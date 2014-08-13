@@ -19,19 +19,19 @@ Sample collection
 
 
 Experimental set-up
-- Husbandry conditions and locations - set-up before the stars came
+- Husbandry conditions and locations - set-up before the stars came: number of tanks; dimensions of tanks; material of tanks; water flow-through system; any way to check the water flow-through system, either by you or Marrowstone folks? 
 - Acclimation period? 
-- Experimental design - individually housed? number of tanks; dimensions of tanks; 
-- Monitoring of conditions during experiment 
-Termination 
+- Experimental design - individually housed? - Monitoring of conditions during experiment 
+- Termination - sacrifice method (taking paired samples of healthy and sick); 
 
 
 Sample processing and preservation
-
-
+- Transport of samples?
 
 
 Sequencing, assembly, annotation
+- Sent for sequencing 
+- de novo assembly - CLC; 
 
 
 Transcriptome exploration
@@ -96,3 +96,56 @@ Methods
 
 
 Sequencing
+
+
+High Throughput Sequencing and Assembly
+
+
+Six libraries were constructed and sequenced by the Cornell High Throughput Genomics Unit at the using the Illumina HiSeq platform (San Diego, CA).  Quality trimming of resulting sequencing reads was performed using CLC Genomics Workbench v. 7.0 (CLC Bio, Germany) with the following parameters: quality limit = 0.05 (Phred) [57,58]; number of ambiguous nucleotides < 2 on ends, and reads shorter than 25 bp were removed.
+
+
+De novo assembly was performed with Genomics Workbench v. 5.0 (CLC Bio, Germany) on quality trimmed sequences with the following parameters: mismatch cost = 2, deletion cost = 3, similarity fraction = 0.9, insertion cost = 3, length fraction = 0.8 and minimum contig size of 500 bp f[a]or  transcriptomic data.
+
+
+ In order to remove ribosomal RNA sequences from the transcriptome data, consensus sequences were compared to the NCBI nt database using the BLASTn algorithm [59]. Sequences with significant matches (9) were removed and not considered in subsequent analyses.[b]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+Differential Expression Analysis
+
+
+Differential expression of contigs was calculated using the DESeq2 package for R (citation). Raw read counts per contig for each sample were utilized for DESeq2 analyses.[c] Samples were split into two treatments, viral exposed and heat killed control.  Base mean of each contig was calculated as well as log2 fold change between viral treatments and the control, with reference to the control.  All contigs with adjusted p values less than .05 were considered differentially expressed and exported for further analysis.
+Differentially expressed genes were then matched to their SwissProt annotations using SQLShare software (citation).  The SwissProt IDs for each of the annotated differentially expressed genes were compiled into a single gene list and entered into DAVID for gene ontology enrichment analyses (citation).  Enrichment analyses were conducted using a list of all SwissProt annotations in the transcriptome as a background. BP_FAT terms with a Benjamini adjusted p-value less than .05 were considered significantly enriched.  Significantly enriched terms were then matched back to corresponding contigs using the contributing SwissProt IDs indicated by DAVID. In addition to enrichment analyses, all annotated differentially expressed genes with a log2 fold change of greater than 2 or less than -2 were examined and grouped based on biological processes[d].
+                
+
+
+Results
+
+
+Transcri
+[a]nts: confirm
+[b]Lets consider if we need a section like this....
+[c]Wording help maybe??  Can't figure out a good way to say this concisely and clearly!
+[d]Am I missing any steps?  Let me know!
