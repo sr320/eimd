@@ -35,11 +35,12 @@ Sequencing, assembly, annotation
 
 
 Transcriptome exploration
-
-
+- Annotation
+- Gene Ontology
 
 
 Differential expression analyses 
+- Numbers / Numbers Annotated
 - Enrichment … 
 - … 
 
@@ -53,6 +54,11 @@ Results
 
 
 Discussion
+Transcriptome basics
+
+
+
+
 Four Major processes enriched - expanded:
 1. immune
 2. cytokines
@@ -112,8 +118,7 @@ De novo assembly was performed with Genomics Workbench v. 5.0 (CLC Bio, Germany)
 
 
 
-
-
+A
 
 
 
@@ -141,10 +146,26 @@ Differentially expressed genes were then matched to their SwissProt annotations 
                 
 
 
+
+
+
+
+
+
+
+
+
+
 Results
 
 
-Transcri
+Transcriptome
+
+
+Differenitally Expressed Genes
+
+
+Of the X contigs in the full transcriptome, 3732 were differentially expressed between viral and heat killed treated individuals.  Of those differentially expressed contigs, 16
 [a]nts: confirm
 [b]Lets consider if we need a section like this....
 [c]Wording help maybe??  Can't figure out a good way to say this concisely and clearly!
