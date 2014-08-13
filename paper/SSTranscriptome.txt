@@ -1,0 +1,98 @@
+﻿Outline of Transcriptomic Core Draft:
+
+
+Draft will be written in Google Doc - versions will be saved to GitHub
+
+
+Wed, Aug 13, 2014 - Work on DEGs, Transcriptome Characterization, Methods & Literature
+Thurs, Aug 14, 2014 - Divide up DEGs and Transcriptome - each person to tackle different processes
+Fri, Aug 15, 2014 - Finalize current results - Work on presentation 
+
+
+Methods
+
+
+Sample collection
+- Selection process (size, location, color?)
+- 3 sites (GPS coordinates)
+- Transport from field to laboratory
+
+
+Experimental set-up
+- Husbandry conditions and locations - set-up before the stars came
+- Acclimation period? 
+- Experimental design - individually housed? number of tanks; dimensions of tanks; 
+- Monitoring of conditions during experiment 
+Termination 
+
+
+Sample processing and preservation
+
+
+
+
+Sequencing, assembly, annotation
+
+
+Transcriptome exploration
+
+
+
+
+Differential expression analyses 
+- Enrichment … 
+- … 
+
+
+
+
+Results
+- Characterization of the transcriptome
+- Infection (by DEGs) - numbers
+- Enriched (will focus the gene families/genes that are of interest) - function
+
+
+Discussion
+Four Major processes enriched - expanded:
+1. immune
+2. cytokines
+3. biological adhesion
+4. nervous/cytoskeletal/connective tissue-related
+In addition, allow for a few additional genes of interest
+
+
+Supplementary
+- A single iPython notebook streamlining all analyses 
+        - Or minimally, 
+
+
+
+
+
+
+________________
+
+
+
+
+DRAFT OF SEASTAR TRANSCRIPTOME PAPER
+
+
+
+
+
+
+
+
+
+
+
+
+Methods
+
+
+
+
+
+
+Sequencing
