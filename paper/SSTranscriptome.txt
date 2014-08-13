@@ -12,6 +12,9 @@ Fri, Aug 15, 2014 - Finalize current results - Work on presentation
 FULL Draft link: Click (below in this document)
 
 
+Link to Google Drive Folder with Papers
+
+
 Methods
 
 
@@ -60,12 +63,12 @@ Transcriptome basics
 
 
 
-Four Major processes enriched - expanded:
+Four[a] Major processes enriched - expanded:
 1. immune
 2. cytokines
-3. biological adhesion and mutable connective tissue processes[a]
-4. nervous/cytoskeletal/connective tissue-related → Allison says: Was this enriched?? 
-5. necrosis and cell death[b]
+3. biological adhesion and mutable connective tissue processes[b]
+4. nervous/cytoskeletal/connective tissue-related 
+5. necrosis and cell death[c]
 In addition, allow for a few additional genes of interest
 
 
@@ -97,29 +100,26 @@ Introduction:
 Methods
 
 
-Experimental Design
+
+
+Experimental Design 
+
+
+
+
+Sample Prep
 
 
 
 
 
 
-
-
-
-
-
-
-Sequencing
 
 
 High Throughput Sequencing and Assembly
 
 
-Six libraries were constructed and sequenced by the Cornell High Throughput Genomics Unit using the Illumina HiSeq platform (San Diego, CA).[c]  Quality trimming of resulting sequencing reads was performed using CLC Genomics Workbench v. 7.0 (CLC Bio, Germany) with the following parameters: quality limit = 0.05 (Phred) [57,58]; number of ambiguous nucleotides < 2 on ends, and reads shorter than 25 bp were removed.
-
-
-De novo assembly was performed with Genomics Workbench v. 5.0 (CLC Bio, Germany) on quality trimmed sequences with the following parameters: mismatch cost = 2, deletion cost = 3, similarity fraction = 0.9, insertion cost = 3, length fraction = 0.8 and minimum contig size of 500 bp f[d]or  transcriptomic data.
+Six libraries were constructed and sequenced by the Cornell High Throughput Genomics Unit using the Illumina HiSeq platform (San Diego, CA).[d]  Quality trimming of resulting sequencing reads was performed using CLC Genomics Workbench v. 7.0 (CLC Bio, Germany) with the following parameters: quality limit = 0.05 (Phred) [57,58]; number of ambiguous nucleotides < 2 on ends, and reads shorter than 25 bp were removed. De novo assembly was performed with Genomics Workbench 7. 5.0 (CLC Bio, Germany) on quality trimmed sequences with the following parameters; automatic bubble size, automatic word size, auto-detect paired distances, perform scaffolding, and  minimum contig size of 500 bp.
 
 
  In order to remove ribosomal RNA sequences from the transcriptome data, consensus sequences were compared to the NCBI nt database using the BLASTn algorithm [59]. Sequences with significant matches (9) were removed and not considered in subsequent analyses.[e]
@@ -128,7 +128,7 @@ De novo assembly was performed with Genomics Workbench v. 5.0 (CLC Bio, Germany)
 
 
 Transcriptome Annotation.
-Transcriptomic sequences were annotated by comparing contiguous sequences to the UniProtKB/Swiss-Prot database . Comparisons were made using the BLASTx algorithm with a 1.0E-5 e-value threshold. Genes were classified according to Swiss-Prot Gene Ontology (GO) associations, as well as respective parent categories (GO Slim
+Transcriptomic sequences were annotated by comparing contiguous sequences to the UniProtKB/Swiss-Prot database and A SEA URCHIN DATABASEref. Comparisons were made using the BLASTx algorithm with a 1.0E-5 e-value threshold. Genes were classified according to Swiss-Prot Gene Ontology (GO) associations, as well as respective parent categories (GO Slim). In addition the transcriptome was compared to NCBI’s nucleotide database (nt) using the BLASTn algorithm
 
 
 
@@ -137,8 +137,6 @@ Transcriptomic sequences were annotated by comparing contiguous sequences to the
 
         
 Differential Expression Analysis
-
-
 Differential expression of contigs was calculated using a negative binomial GLM in the R package DESeq2 (Anders and Huber 2010). The read counts were first normalized using the size factors method and fit to a negative binomial distribution. Significantly differentially expressed contigs (Benjamini-Hochberg adjusted p<0.05 ) between viral exposed and control (heat killed virus) samples were determined using the Wald test for significance of GLM terms.
 Gene ontology enrichment analyses were conducted in DAVID (citation) using the SwissProt IDs of the annotated differentially expressed genes and the SwissProt annotations of the complete transcriptome as background.  Significantly enriched BP_FAT GO terms (Benjamini-Hochberg adjusted p<.05) were then matched back to corresponding contigs using the contributing SwissProt IDs indicated by DAVID. 
 All annotated differentially expressed genes with a log2 fold change of greater than 2 or less than -2 were examined and grouped based on biological processes.
@@ -152,11 +150,18 @@ Results
 
 
 Transcriptome
+A total of 30578 contigs were generated with a mean contig length of x and N50 value of x… In order to assess the completeness of the  Pycnopodia transcriptome, contigs were compared with the sea urchin database with xx xx contigs matching … 
+In comparison with the UniProtKB/Swiss-Prot database, xx contigs were annotated.
+Comparisons of the Pycnopodia helianthoides transcriptome sequences to the UniProtKB/Swiss-Prot database resulted in 30578 unique contigs. Nucleotide BLAST searches resulted in 8611 annotated as Eukaryotic contigs, of which 3947 were from sea urchin. In addition, 2117 were bacterial and 31 matched viral annotations.
 
 
 
 
-Differenitally Expressed Genes
+
+
+
+
+Differentially Expressed Genes
 
 
 DESeq2 analysis resulted in 3732 contigs that were differentially expressed between viral and heat killed treated individuals.  Of those differentially expressed contigs, 1629 were expressed lower and 2103 were expressed higher in viral treated individuals. A total of 1183 differentially expressed contigs (31.7%) were annotated with SwissProt IDs.
@@ -169,10 +174,11 @@ Seventeen BP_FAT gene ontology (GO) terms were significantly enriched in the sub
 
 
 Extra Interesting Annos
-[a]added this bit here as I think that this is an important step in the pathogenesis of SSWD.
-[b]"we" should also compare cell death and necrosis between treatments
-[c]Steven, can you give more info here? Poly-A tail selection? barcodes? what method do they use?
-[d]nts: confirm
+[a]Can we distinguish here between what is enriched and what we're interested in looking at? 
+I think only immune, cytokines and biological adhesion are enriched??
+[b]added this bit here as I think that this is an important step in the pathogenesis of SSWD.
+[c]"we" should also compare cell death and necrosis between treatments
+[d]Steven, can you give more info here? Poly-A tail selection? barcodes? what method do they use?
 [e]Lets consider if we need a section like this....
 [f]What other info do we want here?
 [g]Revigo map?
@@ -181,7 +187,7 @@ Extra Interesting Annos
 [j]what does this mean? why is it significant?
 [k]_Marked as resolved_
 [l]_Re-opened_
-[m]None were on average lower expressed in sea stars.. but I think this comment could be addressed with the graph maybe?
+[m]None were on average lower expressed in sea stars... But I think this comment could be addressed with the graph maybe?
 [n]There were no significant GO terms associated with contigs which were lower expressed in viral exposed stars
 [o]Graph of average log2foldchange for each GO term?
 [p]Should we make a folder for graphs and everyone can put what they have into it and then we can decide on the best way to visualize these things?
