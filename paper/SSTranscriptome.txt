@@ -9,6 +9,9 @@ Thurs, Aug 14, 2014 - Divide up DEGs and Transcriptome - each person to tackle d
 Fri, Aug 15, 2014 - Finalize current results - Work on presentation 
 
 
+FULL Draft link: Click (below in this document)
+
+
 Methods
 
 
@@ -21,21 +24,18 @@ Sample collection
 Experimental set-up
 - Husbandry conditions and locations - set-up before the stars came: number of tanks; dimensions of tanks; material of tanks; water flow-through system; any way to check the water flow-through system, either by you or Marrowstone folks? 
 - Acclimation period? 
-- Experimental design - individually housed? - Monitoring of conditions during experiment 
-- Termination - sacrifice method (taking paired samples of healthy and sick); 
-
-
-Sample processing and preservation
+- Experimental design - individually housed? monitoring of conditions during experiment; treatments; duration of experiment 
+- Termination - sacrifice method (taking paired samples of healthy and sick); sample preservation here
 - Transport of samples?
 
 
-Sequencing, assembly, annotation
+Sequencing, assembly, annotation - DONE
 - Sent for sequencing 
-- de novo assembly - CLC; 
+- de novo assembly - CLC
 
 
 Transcriptome exploration
-- Annotation
+- Annotation - Blast nt
 - Gene Ontology
 
 
@@ -48,9 +48,10 @@ Differential expression analyses
 
 
 Results
-- Characterization of the transcriptome
-- Infection (by DEGs) - numbers
+- Characterization of the transcriptome - % echinoderm-annotated; percent/ # mapping to sea urchin
+- Infection (by DEGs) - numbers up and down; analysis of what those ARE 
 - Enriched (will focus the gene families/genes that are of interest) - function
+- Extra interesting Annos
 
 
 Discussion
@@ -62,14 +63,15 @@ Transcriptome basics
 Four Major processes enriched - expanded:
 1. immune
 2. cytokines
-3. biological adhesion
-4. nervous/cytoskeletal/connective tissue-related
+3. biological adhesion and mutable connective tissue processes[a]
+4. nervous/cytoskeletal/connective tissue-related → Allison says: Was this enriched?? 
+5. necrosis and cell death[b]
 In addition, allow for a few additional genes of interest
 
 
 Supplementary
 - A single iPython notebook streamlining all analyses 
-        - Or minimally, 
+        - Or minimally, put up multiple notebooks on Figshare
 
 
 
@@ -86,15 +88,22 @@ DRAFT OF SEASTAR TRANSCRIPTOME PAPER
 
 
 
-
-
-
-
+Introduction:
+- Possible elements, not in order = novel transcriptomes, echinoderm immune capabilities in general, SSWD context, transcriptomics method for deeper understanding of response 
 
 
 
 
 Methods
+
+
+Experimental Design
+
+
+
+
+
+
 
 
 
@@ -107,30 +116,19 @@ Sequencing
 High Throughput Sequencing and Assembly
 
 
-Six libraries were constructed and sequenced by the Cornell High Throughput Genomics Unit at the using the Illumina HiSeq platform (San Diego, CA).  Quality trimming of resulting sequencing reads was performed using CLC Genomics Workbench v. 7.0 (CLC Bio, Germany) with the following parameters: quality limit = 0.05 (Phred) [57,58]; number of ambiguous nucleotides < 2 on ends, and reads shorter than 25 bp were removed.
+Six libraries were constructed and sequenced by the Cornell High Throughput Genomics Unit using the Illumina HiSeq platform (San Diego, CA).[c]  Quality trimming of resulting sequencing reads was performed using CLC Genomics Workbench v. 7.0 (CLC Bio, Germany) with the following parameters: quality limit = 0.05 (Phred) [57,58]; number of ambiguous nucleotides < 2 on ends, and reads shorter than 25 bp were removed.
 
 
-De novo assembly was performed with Genomics Workbench v. 5.0 (CLC Bio, Germany) on quality trimmed sequences with the following parameters: mismatch cost = 2, deletion cost = 3, similarity fraction = 0.9, insertion cost = 3, length fraction = 0.8 and minimum contig size of 500 bp f[a]or  transcriptomic data.
+De novo assembly was performed with Genomics Workbench v. 5.0 (CLC Bio, Germany) on quality trimmed sequences with the following parameters: mismatch cost = 2, deletion cost = 3, similarity fraction = 0.9, insertion cost = 3, length fraction = 0.8 and minimum contig size of 500 bp f[d]or  transcriptomic data.
 
 
- In order to remove ribosomal RNA sequences from the transcriptome data, consensus sequences were compared to the NCBI nt database using the BLASTn algorithm [59]. Sequences with significant matches (9) were removed and not considered in subsequent analyses.[b]
-
-
-
-
-A
+ In order to remove ribosomal RNA sequences from the transcriptome data, consensus sequences were compared to the NCBI nt database using the BLASTn algorithm [59]. Sequences with significant matches (9) were removed and not considered in subsequent analyses.[e]
 
 
 
 
-
-
-
-
-
-
-
-
+Transcriptome Annotation.
+Transcriptomic sequences were annotated by comparing contiguous sequences to the UniProtKB/Swiss-Prot database . Comparisons were made using the BLASTx algorithm with a 1.0E-5 e-value threshold. Genes were classified according to Swiss-Prot Gene Ontology (GO) associations, as well as respective parent categories (GO Slim
 
 
 
@@ -141,15 +139,9 @@ A
 Differential Expression Analysis
 
 
-Differential expression of contigs was calculated using the DESeq2 package for R (citation). Raw read counts per contig for each sample were utilized for DESeq2 analyses.[c] Samples were split into two treatments, viral exposed and heat killed control.  Base mean of each contig was calculated as well as log2 fold change between viral treatments and the control, with reference to the control.  All contigs with adjusted p values less than .05 were considered differentially expressed and exported for further analysis.
-Differentially expressed genes were then matched to their SwissProt annotations using SQLShare software (citation).  The SwissProt IDs for each of the annotated differentially expressed genes were compiled into a single gene list and entered into DAVID for gene ontology enrichment analyses (citation).  Enrichment analyses were conducted using a list of all SwissProt annotations in the transcriptome as a background. BP_FAT terms with a Benjamini adjusted p-value less than .05 were considered significantly enriched.  Significantly enriched terms were then matched back to corresponding contigs using the contributing SwissProt IDs indicated by DAVID. In addition to enrichment analyses, all annotated differentially expressed genes with a log2 fold change of greater than 2 or less than -2 were examined and grouped based on biological processes[d].
-                
-
-
-
-
-
-
+Differential expression of contigs was calculated using a negative binomial GLM in the R package DESeq2 (Anders and Huber 2010). The read counts were first normalized using the size factors method and fit to a negative binomial distribution. Significantly differentially expressed contigs (Benjamini-Hochberg adjusted p<0.05 ) between viral exposed and control (heat killed virus) samples were determined using the Wald test for significance of GLM terms.
+Gene ontology enrichment analyses were conducted in DAVID (citation) using the SwissProt IDs of the annotated differentially expressed genes and the SwissProt annotations of the complete transcriptome as background.  Significantly enriched BP_FAT GO terms (Benjamini-Hochberg adjusted p<.05) were then matched back to corresponding contigs using the contributing SwissProt IDs indicated by DAVID. 
+All annotated differentially expressed genes with a log2 fold change of greater than 2 or less than -2 were examined and grouped based on biological processes.
 
 
 
@@ -162,11 +154,38 @@ Results
 Transcriptome
 
 
+
+
 Differenitally Expressed Genes
 
 
-Of the X contigs in the full transcriptome, 3732 were differentially expressed between viral and heat killed treated individuals.  Of those differentially expressed contigs, 16
-[a]nts: confirm
-[b]Lets consider if we need a section like this....
-[c]Wording help maybe??  Can't figure out a good way to say this concisely and clearly!
-[d]Am I missing any steps?  Let me know!
+DESeq2 analysis resulted in 3732 contigs that were differentially expressed between viral and heat killed treated individuals.  Of those differentially expressed contigs, 1629 were expressed lower and 2103 were expressed higher in viral treated individuals. A total of 1183 differentially expressed contigs (31.7%) were annotated with SwissProt IDs.
+
+
+Gene Ontology (GO) Enrichment[f]
+
+
+Seventeen BP_FAT gene ontology (GO) terms were significantly enriched in the subset of annotated differentially expressed genes.  These terms fell into three broad categories: immune response, regulation of cytokine production, and biological adhesion(Figure 1)[g]. Immune response was the largest of these categories, with thirteen associated enriched GO terms. Table 1 lists all significantly enriched GO terms[h].  Regulation of cytokine biosynthetic process (GO:0042035) and activation of immune response (GO:0002253) were the two most enriched GO terms with fold enrichments of 5.881791 and 5.614436 respectively (Figure 2)[i].  For all enriched GO terms, average log2 fold change of associated contigs was positive.[j][k][l][m][n] Adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains (GO:0002460) had the highest average log2 fold change of all associated contigs (3.36) and G-protein coupled receptor protein signaling pathway (GO:0007186) had the lowest average log2 fold change (0.78) (Figure 3)[o][p][q][r][s][t].
+
+
+Extra Interesting Annos
+[a]added this bit here as I think that this is an important step in the pathogenesis of SSWD.
+[b]"we" should also compare cell death and necrosis between treatments
+[c]Steven, can you give more info here? Poly-A tail selection? barcodes? what method do they use?
+[d]nts: confirm
+[e]Lets consider if we need a section like this....
+[f]What other info do we want here?
+[g]Revigo map?
+[h]Unless someone else has a better way of displaying this?
+[i]Graph of fold enrichment for each term?  Or we can just include in above table
+[j]what does this mean? why is it significant?
+[k]_Marked as resolved_
+[l]_Re-opened_
+[m]None were on average lower expressed in sea stars.. but I think this comment could be addressed with the graph maybe?
+[n]There were no significant GO terms associated with contigs which were lower expressed in viral exposed stars
+[o]Graph of average log2foldchange for each GO term?
+[p]Should we make a folder for graphs and everyone can put what they have into it and then we can decide on the best way to visualize these things?
+[q]I can upload graphs to the drive that I have so far.  They'll definitely need to be improved/prettified
+[r]yeah we can redo things. but maybe jsut looking at various graphs will let us see which are most informative together
+[s]alright i'll get some put up!
+[t]It's in the SS folder in morgan's drive
