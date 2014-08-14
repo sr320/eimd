@@ -21,6 +21,9 @@ Methods
 Sample collection
 - Selection process (size, location, color?)
 - 3 sites (GPS coordinates)
+1. Dabob Bay, 47.81292395845202, -122.82028198242188, 
+2. Port Hadlock Marina, Hadlock Bay Road, Port Hadlock-Irondale, WA, United States, 48.030385269179185, -122.74497628211975
+3. Friday Harbor Labs, 
 - Transport from field to laboratory
 
 
@@ -51,7 +54,9 @@ Differential expression analyses
 
 
 Results
-- Characterization of the transcriptome - % echinoderm-annotated; percent/ # mapping to sea urchin
+- Characterization of the transcriptome - 
+% echinoderm-annotated
+percent/ # mapping to sea urchin genome for coverage
 - Infection (by DEGs) - numbers up and down; analysis of what those ARE 
 - Enriched (will focus the gene families/genes that are of interest) - function
 - Extra interesting Annos
@@ -63,13 +68,22 @@ Transcriptome basics
 
 
 
-Four[a] Major processes enriched - expanded:
+Four[a][b] Major processes enriched - expanded:
 1. immune
-2. cytokines
-3. biological adhesion and mutable connective tissue processes[b]
-4. nervous/cytoskeletal/connective tissue-related 
-5. necrosis and cell death[c]
-In addition, allow for a few additional genes of interest
+2.  biological adhesion
+3.  cell adhesion 
+
+
+
+
+List of other interesting stuff
+necrosis and cell death
+nervous/cytoskeletal/connective tissue-related 
+and mutable connective tissue processes[c]
+
+
+
+
 
 
 Supplementary
@@ -92,7 +106,6 @@ DRAFT OF SEASTAR TRANSCRIPTOME PAPER
 
 
 Introduction:
-- Possible elements, not in order = novel transcriptomes, echinoderm immune capabilities in general, SSWD context, transcriptomics method for deeper understanding of response 
 
 
 
@@ -103,6 +116,12 @@ Methods
 
 
 Experimental Design 
+
+
+
+
+
+
 
 
 
@@ -138,8 +157,21 @@ Transcriptomic sequences were annotated by comparing contiguous sequences to the
         
 Differential Expression Analysis
 Differential expression of contigs was calculated using a negative binomial GLM in the R package DESeq2 (Anders and Huber 2010). The read counts were first normalized using the size factors method and fit to a negative binomial distribution. Significantly differentially expressed contigs (Benjamini-Hochberg adjusted p<0.05 ) between viral exposed and control (heat killed virus) samples were determined using the Wald test for significance of GLM terms.
-Gene ontology enrichment analyses were conducted in DAVID (citation) using the SwissProt IDs of the annotated differentially expressed genes and the SwissProt annotations of the complete transcriptome as background.  Significantly enriched BP_FAT GO terms (Benjamini-Hochberg adjusted p<.05) were then matched back to corresponding contigs using the contributing SwissProt IDs indicated by DAVID. 
-All annotated differentially expressed genes with a log2 fold change of greater than 2 or less than -2 were examined and grouped based on biological processes.
+
+
+Enrichment Analysis
+Significantly enriched GO terms associated with differentially expressed genes were identified using the Database for Annotation, Visualization and Integrated Discovery (DAVID) v. 6.7 [refs]. The specific GO category (GO FAT), developed as part of the Annotation Tool of the DAVID suite of bioinformatics resources, is a category that filters out very broad GO terms based on a measured specificity of each term. The UniProt accession numbers for differentially expressed genes were uploaded as a gene list, while all UniProt accession numbers for annotated transcriptomic contigs were used as a background. Significantly enriched GO terms were identified as those with Benjamini-Hochberg adjusted p<0.05. Enriched GO terms were clustered in semantic space using Revigo [refs].
+
+
+All annotated differentially expressed genes with a log2 fold change of greater than 2 or less than -2 were examined and grouped based on biological processes.[f]
+
+
+
+
+
+
+
+
 
 
 
@@ -167,31 +199,48 @@ Differentially Expressed Genes
 DESeq2 analysis resulted in 3732 contigs that were differentially expressed between viral and heat killed treated individuals.  Of those differentially expressed contigs, 1629 were expressed lower and 2103 were expressed higher in viral treated individuals. A total of 1183 differentially expressed contigs (31.7%) were annotated with SwissProt IDs.
 
 
-Gene Ontology (GO) Enrichment[f]
+Gene Ontology (GO) Enrichment[g]
 
 
-Seventeen BP_FAT gene ontology (GO) terms were significantly enriched in the subset of annotated differentially expressed genes.  These terms fell into three broad categories: immune response, regulation of cytokine production, and biological adhesion(Figure 1)[g]. Immune response was the largest of these categories, with thirteen associated enriched GO terms. Table 1 lists all significantly enriched GO terms[h].  Regulation of cytokine biosynthetic process (GO:0042035) and activation of immune response (GO:0002253) were the two most enriched GO terms with fold enrichments of 5.881791 and 5.614436 respectively (Figure 2)[i].  For all enriched GO terms, average log2 fold change of associated contigs was positive.[j][k][l][m][n] Adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains (GO:0002460) had the highest average log2 fold change of all associated contigs (3.36) and G-protein coupled receptor protein signaling pathway (GO:0007186) had the lowest average log2 fold change (0.78) (Figure 3)[o][p][q][r][s][t].
+Seventeen BP_FAT gene ontology (GO) terms were significantly enriched in the subset of annotated differentially expressed genes.  These terms fell into three broad categories: immune response, regulation of cytokine production, and biological adhesion(Figure 1)[h]. Immune response was the largest of these categories, with thirteen associated enriched GO terms. Table 1 lists all significantly enriched GO terms[i].  Regulation of cytokine biosynthetic process (GO:0042035) and activation of immune response (GO:0002253) were the two most enriched GO terms with fold enrichments of 5.881791 and 5.614436 respectively (Figure 2)[j].  For all enriched GO terms, average log2 fold change of associated contigs was positive.[k][l][m][n][o] Adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains (GO:0002460) had the highest average log2 fold change of all associated contigs (3.36) and G-protein coupled receptor protein signaling pathway (GO:0007186) had the lowest average log2 fold change (0.78) (Figure 3[p])[q][r][s][t][u][v].
+
+
+  
+
+
+
+
+
+
+
 
 
 Extra Interesting Annos
 [a]Can we distinguish here between what is enriched and what we're interested in looking at? 
 I think only immune, cytokines and biological adhesion are enriched??
-[b]added this bit here as I think that this is an important step in the pathogenesis of SSWD.
-[c]"we" should also compare cell death and necrosis between treatments
+[b]I believe it is 
+1) Activation of Immune response
+2) biological adhesion
+3) celladhesion
+(this is with Benjaminin <0.05)
+Figure below.
+[c]added this bit here as I think that this is an important step in the pathogenesis of SSWD.
 [d]Steven, can you give more info here? Poly-A tail selection? barcodes? what method do they use?
 [e]Lets consider if we need a section like this....
-[f]What other info do we want here?
-[g]Revigo map?
-[h]Unless someone else has a better way of displaying this?
-[i]Graph of fold enrichment for each term?  Or we can just include in above table
-[j]what does this mean? why is it significant?
-[k]_Marked as resolved_
-[l]_Re-opened_
-[m]None were on average lower expressed in sea stars... But I think this comment could be addressed with the graph maybe?
-[n]There were no significant GO terms associated with contigs which were lower expressed in viral exposed stars
-[o]Graph of average log2foldchange for each GO term?
-[p]Should we make a folder for graphs and everyone can put what they have into it and then we can decide on the best way to visualize these things?
-[q]I can upload graphs to the drive that I have so far.  They'll definitely need to be improved/prettified
-[r]yeah we can redo things. but maybe jsut looking at various graphs will let us see which are most informative together
-[s]alright i'll get some put up!
-[t]It's in the SS folder in morgan's drive
+[f]not quite sure where this falls out.
+[g]What other info do we want here?
+[h]Revigo map?
+[i]Unless someone else has a better way of displaying this?
+[j]Graph of fold enrichment for each term?  Or we can just include in above table
+[k]what does this mean? why is it significant?
+[l]_Marked as resolved_
+[m]_Re-opened_
+[n]None were on average lower expressed in sea stars... But I think this comment could be addressed with the graph maybe?
+[o]There were no significant GO terms associated with contigs which were lower expressed in viral exposed stars
+[p]place holder to help guide flow
+[q]Graph of average log2foldchange for each GO term?
+[r]Should we make a folder for graphs and everyone can put what they have into it and then we can decide on the best way to visualize these things?
+[s]I can upload graphs to the drive that I have so far.  They'll definitely need to be improved/prettified
+[t]yeah we can redo things. but maybe jsut looking at various graphs will let us see which are most informative together
+[u]alright i'll get some put up!
+[v]It's in the SS folder in morgan's drive
