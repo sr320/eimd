@@ -33,17 +33,19 @@ Methods
 
 
 Sample collection
-- Selection process (size, location, color?)
+- Selection process (size, location, color?) - animals were collected from sites without symptomatic animals recorded (at time of collection). An effort was made to collect animals within a similar size range, but otherwise selection was random. 
 - 3 sites (GPS coordinates)
 1. Dabob Bay, 47.81292395845202, -122.82028198242188, 
 2. Port Hadlock Marina, Hadlock Bay Road, Port Hadlock-Irondale, WA, United States, 48.030385269179185, -122.74497628211975
 3. Friday Harbor Labs, 48.545091102002814, -123.01227450370789
-- Transport from field to laboratory
+- Transport from field to laboratory: animals were transported in coolers, wrapped in cloth soaked in seawater from the site. On arrival, all animals were examined for signs of disease or trauma. Tube feet tissue samples were taken and the animals were transferred to individual tanks with separate flow through seawater. 
+
+
 
 
 Experimental set-up
-- Husbandry conditions and locations - set-up before the stars came: number of tanks; dimensions of tanks; material of tanks; water flow-through system; any way to check the water flow-through system, either by you or Marrowstone folks? 
-- Acclimation period? 
+- Husbandry conditions and locations - 
+- Acclimation period?  
 - Experimental design - individually housed? monitoring of conditions during experiment; treatments; duration of experiment 
 - Termination - sacrifice method (taking paired samples of healthy and sick); sample preservation here
 - Transport of samples?
@@ -93,7 +95,7 @@ Four(three) Major processes enriched - expanded:
 List of other interesting stuff
 necrosis and cell death
 nervous/cytoskeletal/connective tissue-related 
-and mutable connective tissue processes[a]
+and mutable connective tissue processes[a][b], 
 
 
 
@@ -119,7 +121,36 @@ DRAFT OF SEASTAR TRANSCRIPTOME PAPER
 
 
 
-Introduction:
+Abstract: 
+* General comment on echinoderms and immune systems
+* Transcriptomics of sea urchins show a suite of immune response proteins; sea stars likely to share many
+* Transcriptomics as tool to quantify sea star response to infection to sea star wasting disease
+* We injected Pycnopodia helianthoides with live filtrate of coelomic fluid from infected stars and compared them to a control group injected with heat-killed filtrate
+* We sequenced transcriptome using …. and quantified expression patterns in healthy and infected stars with…
+* Using Gene Ontology (GO) terms to group the differentially expressed genes by biological processes, we found enriched expression in three/four major pathways: [list]
+   * One sentence descriptor for interesting finds in each pathway
+* This is the first characterization of immune function in the class Asteroidea. Our transcriptome of P. helianthoides provides a tool for investigation into the echinoderm immune response, and also provides a resource for further studies of evolution and physiology.
+
+
+Introduction:[c]
+
+
+* Transcriptome as a means for understanding response to infection on a gene level
+   * in our case, Asteroidea
+* Transcriptome as foundation for studying immune response in invertebrates
+   * Echinoderm immunity is not well understood outside of sea urchins
+* Sea star wasting scope and symptoms
+   * Started in summer 2013, field observations and lab experiments show association of infection with high temperatures 
+   * The first symptoms of the disease include abnormally twisted arms and small white lesions on the aboral body wall. As the disease progresses, tissue...The time from appearance of twisting to the onset of more severe symptoms varies markedly between sites.
+   * Ecological importance of sea stars
+* What we know about echinoderm immunity (mostly in urchins)
+   * This is the first characterization of echioderm immunity in Asteroids
+   * Can tell us a lot about how sea stars respond to pathogens
+
+
+        Outside of sea urchins (Strongylocentrotus spp.), echinoderm immunity has not been well-characterized, especially in the class Asteroidea. 
+Starting in summer 2013, sea star wasting disease caused severe population declines in multiple sea star species along the North American Pacific coast. The first symptoms of disease include abnormally twisted arms, a deflated appearance, and small white lesions on the aboral body wall. As the disease progresses, tissue degrades and begins to lose structure, leading to arm loss and death (Eckert et al. 2000). The time from appearance of twisting in a population to the onset of more severe symptoms varies markedly between sites (Eisenlord, pers. obs.). Previous outbreaks of the disease have coincided with periods of above-average temperatures, and laboratory challenge experiments also show increased infection rates at higher temperatures (Eckert et al. 2000, Bates et al. 2009). Because sea stars serve as keystone species in maintaining the trophic structure of intertidal and subtidal food webs, loss of Asteroid populations to wasting syndrome outbreaks have the potential to shift community composition of intertidal and subtidal ecosystems (Paine 1974, Duggins 1983).
+        The 2013 wasting disease outbreak offered the opportunity to examine the gene expression patterns of the sea star immune response in the sunflower star Pycnopodia helianthoides. Through an infection challenge experiment, we were able to induce wasting disease in previously healthy individuals, allowing [isolation, sequencing?] and characterization of the sea star transcriptome in healthy and infected stars. Our P. helianthoides transcriptome the first transcriptome to characterize immunity in the class Asteroidea and represents the third transcriptome from the phylum Echinodermata. [While our study focus on immune response, the P. helianthoides transcriptome sequence will be useful for future studies in invertebrate evolution and physiology.]
 
 
 
@@ -127,35 +158,26 @@ Introduction:
 Methods
 
 
-
-
-Experimental Design 
-
-
-
-
+Experimental Design[d] 
+Pycnopodia helianthoides (radius 160.5 +/- 30.9 mm) were collected from three sites in Washington State: Dabob Bay (DB), WA (47.81292395845202, -122.82028198242188); Port Hadlock Marina (PH), WA (48.030385269179185, -122.74497628211975); Friday Harbor (FH), WA (48.545091102002814, -123.01227450370789). Sites had no reports of SSWD infection at time of collection and all animals were asymptomatic. An effort was made to collect animals within a similar size range to reduce variation based on body mass but otherwise selection was random. Experiments were conducted at Marrowstone USGS Laboratory, WA. P. helianthoides were transported to the lab on the day of collection in coolers, wrapped in cloth soaked in seawater from the site.
+On arrival, animals were examined for signs of disease or trauma. Tube feet tissue samples were taken and the animals were transferred to individual, 10 gallon aquariums with separate flow-through sand-filtered and UV-treated seawater kept at ~8.5°C . Acclimation period was 2.5 months to 3 days, depending on time of collection. During this period, animals were examined for signs of disease and fed live manila clams every 3-4 days. Water flow was checked daily.
+An infection challenge was conducted with filtered tissue homogenate prepared from of three symptomatic P. helianthoides (tissue used: tube feet, dermal tissue, and coelomic fluid). The tissue was ground with a mortar and pestle then placed in a Stomacher with 10 mL seawater from the aquarium housing one of the symptomatic animals used for tissue. The homogenate was centrifuged at 1000 x g for 5 min at 4°C then  split into two 5 mL aliquots. One aliquot was boiled for 7 minutes to serve as a control (HK). The non-heated aliquot (LV) was syringe-filtered through a 5μm polycarbonate, a 1μm polycarbonate and a 0.22 μm polyethylsulfone filter respectively. One animal from each site was randomly chosen to be a control and a treatment. Animals were treated with either control or viral inocula (0.5 mL) by injection into the coelomic cavity, under the dermis on the dorsal side of arm. and within the armpit. The animals were checked twice daily and any physical or behavioral changes recorded. Animals sacrificed at 9 days post injection once all three treatment animals showed small lesions. Stars were sampled while lesions were small and they still had turgor so the coelomic fluid could be extracted from an intact animal. Coelomic fluid was collected from the arm of the animal using a syringe. The samples were centrifuged for 5 minutes at 1200 rpm at 4°C to separate the coelomocytes. The fluid was then removed and the pellet containing the coelomocytes flash frozen in liquid nitrogen. Samples remained in the liquid nitrogen during transport and were placed in a -80 C freezer on arrival.  
 
 
 
 
-
-
-
-
-… At 10 day post injection all animals were sampled for coleomocytes  by  .. sample s
-
-
-
-
-
-
+        
 High Throughput Sequencing and Assembly
 
 
-Six libraries were constructed and sequenced by the Cornell High Throughput Genomics Unit using the Illumina HiSeq platform (San Diego, CA).[b]  Quality trimming of resulting sequencing reads was performed using CLC Genomics Workbench v. 7.0 (CLC Bio, Germany) with the following parameters: quality limit = 0.05 (Phred) [57,58]; number of ambiguous nucleotides < 2 on ends, and reads shorter than 25 bp were removed. De novo assembly was performed with Genomics Workbench 7. 5.0 (CLC Bio, Germany) on quality trimmed sequences with the following parameters; automatic bubble size, automatic word size, auto-detect paired distances, perform scaffolding, and  minimum contig size of 500 bp.
+  
 
 
- In order to remove ribosomal RNA sequences from the transcriptome data, consensus sequences were compared to the NCBI nt database using the BLASTn algorithm [59]. Sequences with significant matches (9) were removed and not considered in subsequent analyses.[c]
+
+Six libraries were constructed and sequenced by the Cornell High Throughput Genomics Unit using the Illumina HiSeq platform (San Diego, CA).[e]  Quality trimming of resulting sequencing reads was performed using CLC Genomics Workbench v. 7.0 (CLC Bio, Germany) with the following parameters: quality limit = 0.05 (Phred) [57,58]; number of ambiguous nucleotides < 2 on ends, and reads shorter than 25 bp were removed. De novo assembly was performed with Genomics Workbench 7. 5.0 (CLC Bio, Germany) on quality trimmed sequences with the following parameters; automatic bubble size, automatic word size, auto-detect paired distances, perform scaffolding, and minimum contig size of 500 bp.
+
+
+ In order to remove ribosomal RNA sequences from the transcriptome data, consensus sequences were compared to the NCBI nt database using the BLASTn algorithm [59]. Sequences with significant matches (9) were removed and not considered in subsequent analyses.[f]
 
 
 
@@ -174,13 +196,10 @@ Differential expression of contigs was calculated using a negative binomial GLM 
 
 
 Enrichment Analysis
-Significantly enriched GO terms associated with differentially expressed genes were identified using the Database for Annotation, Visualization and Integrated Discovery (DAVID) v. 6.7 [refs]. The specific GO category (GO FAT), developed as part of the Annotation Tool of the DAVID suite of bioinformatics resources, is a category that filters out very broad GO terms based on a measured specificity of each term. The UniProt accession numbers for differentially expressed genes were uploaded as a gene list, while all UniProt accession numbers for annotated transcriptomic contigs were used as a background. Significantly enriched GO terms were identified as those with Benjamini-Hochberg adjusted p<0.05. Enriched GO terms were clustered in semantic space using Revigo [refs].
+Significantly enriched GO terms associated with differentially expressed genes were identified using the Database for Annotation, Visualization and Integrated Discovery (DAVID) v. 6.7 [refs]. The specific GO category (GO FAT), developed as part of the Annotation Tool of the DAVID suite of bioinformatics resources, is a category that filters out broad GO terms based on a measured specificity of each term.[g] The UniProt accession numbers for differentially expressed genes were uploaded as a gene list, while all UniProt accession numbers for annotated transcriptomic contigs were used as a background. Significantly enriched GO terms were identified as those with Benjamini-Hochberg adjusted p<0.05. Enriched GO terms were clustered in semantic space using Revigo [refs].
 
 
-All annotated differentially expressed genes with a log2 fold change of greater than 2 or less than -2 were examined and grouped based on biological processes.[d]
-
-
-
+All annotated differentially expressed genes with a log2 fold change of greater than 2 or less than -2 were examined and grouped based on biological processes.[h]
 
 
 
@@ -196,13 +215,80 @@ All annotated differentially expressed genes with a log2 fold change of greater 
 
 
 
-Results
 
 
+
+Results[i]
+
+
+Inoculation Experiment
+        During the acclimation period no signs of disease were observed. All P. helianthoides challenged with 0.22 μm filtered live homogenate inoculum developed symptoms of (SSWD) including curling and lesions (Table 1). Lesions were noted at 8-9 days post injection in all three treatment animals. There was same individual variation in the onset and duration of symptoms but all outward symptoms were consistent between animals. Animals injected with the heat killed inoculum remained asymptomatic throughout.
+
+
+Animal[j] #
+	Collection Site
+	Collection Date
+	Treatment
+	Inoculation Date
+	Days Curling
+	Days lesions
+	Sample Date
+	1
+	DB
+	1/16/14
+	HK
+	4/6/14
+	0
+	0
+	4/15/14
+	2
+	DB
+	1/16/14
+	LV
+	4/6/14
+	1
+	2
+	4/15/14
+	3
+	PH
+	3/11/14
+	HK
+	4/6/14
+	0
+	0
+	4/15/14
+	4
+	PH
+	3/11/14
+	LV
+	4/6/14
+	6
+	2
+	4/15/14
+	5
+	FH
+	4/3/14
+	HK
+	4/6/14
+	0
+	0
+	8/15/75
+	6
+	FH
+	4/3/14
+	LV
+	4/6/14
+	5
+	1
+	8/15/75
+	Table 1. Individual animals sampled showing collection site, acclimation period, and symptom progression. 
+  
+[k]
 Transcriptome
 A total of 30578 contigs were generated with a mean contig length of x and N50 value of x… In order to assess the completeness of the  Pycnopodia transcriptome, contigs were compared with the sea urchin database with xx xx contigs matching … 
-In comparison with the UniProtKB/Swiss-Prot database, xx contigs were annotated.
-Comparisons of the Pycnopodia helianthoides transcriptome sequences to the UniProtKB/Swiss-Prot database resulted in 30578 unique contigs. Nucleotide BLAST searches resulted in 8611 annotated as Eukaryotic contigs, of which 3947 were from sea urchin. In addition, 2117 were bacterial and 31 matched viral annotations.
+
+
+Comparisons of the Pycnopodia helianthoides transcriptome sequences to the UniProtKB/Swiss-Prot database resulted in 11386 contigs that matched 9769 Swiss-Prot IDs. Nucleotide BLAST searches resulted in 8611 annotated as Eukaryotic contigs, of which 3947 were from sea urchin. In addition, 2117 were bacterial and 31 matched viral annotations.
 
 
 
@@ -214,16 +300,16 @@ Comparisons of the Pycnopodia helianthoides transcriptome sequences to the UniPr
 Differentially Expressed Genes
 
 
-DESeq2 analysis resulted in 3732 contigs that were differentially expressed between viral and heat killed treated individuals.  Of those differentially expressed contigs, 1629 were expressed lower and 2103 were expressed higher in viral treated individuals. A total of 1183 differentially expressed contigs (31.7%) were annotated with SwissProt IDs.
+Analysis with DESeq2 (Anders 2010) resulted in 3732 contigs that were differentially expressed between viral and heat killed treated individuals.  Of those differentially expressed contigs, 1629 were expressed lower and 2103 were expressed higher in viral treated individuals. A total of 1183 differentially expressed contigs (31.7%) were annotated with SwissProt IDs.
 
 
-Gene Ontology (GO) Enrichment[e]
+Gene Ontology (GO) Enrichment[l]
 
 
-Seventeen BP_FAT gene ontology (GO) terms were significantly enriched in the subset of annotated differentially expressed genes.  These terms fell into three broad categories: immune response, regulation of cytokine production, and biological adhesion(Figure 1)[f]. Immune response was the largest of these categories, with thirteen associated enriched GO terms. Table 1 lists all significantly enriched GO terms[g].  Regulation of cytokine biosynthetic process (GO:0042035) and activation of immune response (GO:0002253) were the two most enriched GO terms with fold enrichments of 5.881791 and 5.614436 respectively (Figure 2)[h].  For all enriched GO terms, average log2 fold change of associated contigs was positive.[i][j][k][l][m] Adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains (GO:0002460) had the highest average log2 fold change of all associated contigs (3.36) and G-protein coupled receptor protein signaling pathway (GO:0007186) had the lowest average log2 fold change (0.78) (Figure 3[n])[o][p][q][r][s][t].
+Seventeen BP_FAT gene ontology (GO) terms were significantly enriched in the subset of annotated differentially expressed genes.  These terms fell into three broad categories: immune response, regulation of cytokine production, and biological adhesion(Figure 1)[m]. Immune response was the largest of these categories, with thirteen associated enriched GO terms. Table 1 lists all significantly enriched GO terms[n].  Regulation of cytokine biosynthetic process (GO:0042035) and activation of immune response (GO:0002253) were the two most enriched GO terms with fold enrichments of 5.881791 and 5.614436 respectively (Figure 2)[o].  For all enriched GO terms, average log2 fold change of associated contigs was positive.[p][q][r][s][t] Adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains (GO:0002460) had the highest average log2 fold change of all associated contigs (3.36) and G-protein coupled receptor protein signaling pathway (GO:0007186) had the lowest average log2 fold change (0.78) (Figure 3[u])[v][w][x][y][z][aa].
 
 
-  
+
 
 
 
@@ -234,23 +320,128 @@ Seventeen BP_FAT gene ontology (GO) terms were significantly enriched in the sub
 
 
 Extra Interesting Annos
+
+
+
+
+
+
+Discussion
+
+
+
+
+Complement Cascades
+
+
+        Four proteins involved in the innate immunity(?) complement cascade were among our annotated differentially expressed contigs.  These were: Ficolin-2 (FCN2), Complement C3 (C3), Properdin (CFP), and Complement C2 (C2). CFP and C2 each mapped to a single contigs, while FCN2 and C3 annotations mapped to multiple contigs.  For all of four protein annotations, at least one contig was more highly expressed in infected stars than in control samples.  However, contigs annotated as FCN2 had opposing log fold changes, suggesting either gene duplication and differential function or alternative splicing[ab]. The complement cascade has been well documented in Echinoderms previously and contains C3, factor B (citation). Here we document the presence of two additional complement cascade proteins which have not previously been described in Echinoderms, FCN2 and CFP.
+
+
+* Ficolin and Properdin haven’t been documented in echinoderms before
+* We have almost complete pathway previously described + new proteins
+* Main Point: infected stars are likely utilizing the Complement Cascade to recognize pathogens, may be more complex than originally thought!
+
+
+Adhesion
+* Wnt pathway disruption showing up regulation of some genes and downregulation of others
+* Disruption leads to disease in other systems
+* Regulates the adhesion junction between cells
+* Also regulates (downstream) many of the connective tissues that make up the sea star dermas - connection here not as clear as the cell adhesion one.
+* will manly use the papers on the Wnt pathway in echinoderms and the adhesome in echinoderms and build other literature off those. 
+* Main point: there is evidence of Wnt/beta-catenin disruption which may be disrupting the cell adhesion and mutable collagenous tissues[ac].
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Citations
+
+
+DAVID - Bioinformatics Resource 6.7 - http://david.abcc.ncifcrf.gov
+
+
+Anders S and Huber W (2010). “Differential expression analysis for sequence count data.” Genome Biology, 11, pp. R106. http://dx.doi.org/10.1186/gb-2010-11-10-r106,http://genomebiology.com/2010/11/10/R106/.
 [a]added this bit here as I think that this is an important step in the pathogenesis of SSWD.
-[b]Steven, can you give more info here? Poly-A tail selection? barcodes? what method do they use?
-[c]Lets consider if we need a section like this....
-[d]not quite sure where this falls out.
-[e]What other info do we want here?
-[f]Revigo map?
-[g]Unless someone else has a better way of displaying this?
-[h]Graph of fold enrichment for each term?  Or we can just include in above table
-[i]what does this mean? why is it significant?
-[j]_Marked as resolved_
-[k]_Re-opened_
-[l]None were on average lower expressed in sea stars... But I think this comment could be addressed with the graph maybe?
-[m]There were no significant GO terms associated with contigs which were lower expressed in viral exposed stars
-[n]place holder to help guide flow
-[o]Graph of average log2foldchange for each GO term?
-[p]Should we make a folder for graphs and everyone can put what they have into it and then we can decide on the best way to visualize these things?
-[q]I can upload graphs to the drive that I have so far.  They'll definitely need to be improved/prettified
-[r]yeah we can redo things. but maybe jsut looking at various graphs will let us see which are most informative together
-[s]alright i'll get some put up!
-[t]It's in the SS folder in morgan's drive
+[b]I am looking into this
+[c]these points are great- would just flip - start big
+[d]I can easily revise this to include all 20 animals we injected but have chosen to just talk about the 6 we used in this draft. I think for draft 1 it should stay like this and maybe revise later. Thoughts?
+[e]Steven, can you give more info here? Poly-A tail selection? barcodes? what method do they use?
+[f]Lets consider if we need a section like this....
+[g]What?
+[h]not quite sure where this falls out.
+[i]can you go ahead and get placeholder figures in the draft??
+[j]Is this table helpful? More info? Less? Nothing?
+[k]Just as a place holder for the experiment results. I am editing to reflect only the 6 we used.
+[l]What other info do we want here?
+[m]Revigo map?
+[n]Unless someone else has a better way of displaying this?
+[o]Graph of fold enrichment for each term?  Or we can just include in above table
+[p]what does this mean? why is it significant?
+[q]_Marked as resolved_
+[r]_Re-opened_
+[s]None were on average lower expressed in sea stars... But I think this comment could be addressed with the graph maybe?
+[t]There were no significant GO terms associated with contigs which were lower expressed in viral exposed stars
+[u]place holder to help guide flow
+[v]Graph of average log2foldchange for each GO term?
+[w]Should we make a folder for graphs and everyone can put what they have into it and then we can decide on the best way to visualize these things?
+[x]I can upload graphs to the drive that I have so far.  They'll definitely need to be improved/prettified
+[y]yeah we can redo things. but maybe jsut looking at various graphs will let us see which are most informative together
+[z]alright i'll get some put up!
+[aa]It's in the SS folder in morgan's drive
+[ab]Need to investigate this further to make a solid comment.
+[ac]Ruth and Reyn, I know you guys have more. I have focused on the Wnt pathway as a source for a disruption but you have more on what could be the result.
