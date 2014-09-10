@@ -32,6 +32,51 @@ Filtering criteria:
 
 
 
+
+
+Abstract: 
+* General comment on echinoderms and immune systems
+* Transcriptomics of sea urchins show a suite of immune response proteins; sea stars likely to share many
+* Transcriptomics as tool to quantify sea star response to infection to sea star wasting disease
+* We injected Pycnopodia helianthoides with live filtrate of coelomic fluid from infected stars and compared them to a control group injected with heat-killed filtrate
+* We sequenced transcriptome using …. and quantified expression patterns in healthy and infected stars with…
+* Using Gene Ontology (GO) terms to group the differentially expressed genes by biological processes, we found enriched expression in three/four major pathways: [list]
+   * One sentence descriptor for interesting finds in each pathway
+* This is the first characterization of immune function in the class Asteroidea. Our transcriptome of P. helianthoides provides a tool for investigation into the echinoderm immune response, and also provides a resource for further studies of evolution and physiology.
+
+
+Keywords: transcriptome, bioinformatics, echinoderm, Asteroidea, Pycnopodia helianthoides, 
+
+
+Introduction:[a][b][c]
+
+
+* Transcriptome as a means for understanding response to infection on a gene level
+   * in our case, Asteroidea
+* Transcriptome as foundation for studying immune response [d]in invertebrates
+   * What we know about echinoderm immunity (mostly in urchins)
+   * Morgan’s specifics
+* Invertebrate Immunity Processes highlight:
+   * TLR pathways
+   * Complement Cascades (in Urchins)
+   * Skeletal/Muscular
+* Sea star wasting scope and symptoms
+   * Started in summer 2013, field observations and lab experiments show association of infection with high temperatures 
+   * The first symptoms of the disease include abnormally twisted arms and small white lesions on the aboral body wall. As the disease progresses, tissue...The time from appearance of twisting to the onset of more severe symptoms varies markedly between sites.
+   * Ecological importance of sea stars
+* Our infection experiment and transcriptome sequencing is valuable because:
+   * This is the first transcriptome-wide characterization of immunity in asteroids (Franco et al 2001 characterizes proteomic response in Marthasterias) characterization of echioderm immunity in Asteroids
+   * Can tell us a lot about how sea stars respond to pathogens
+   * a gene-level approach will expand the field of disease ecology
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
 Methods
 
 
@@ -143,58 +188,40 @@ ________________
 DRAFT OF SEASTAR TRANSCRIPTOME PAPER
 
 
-TITLE OPTIONS
+TITLE OPTIONS[e]
 Pulling apart host response to sea star wasting disease
 (what’s your opinion on colons?         : differential expression of immune response genes and processes in infected asteroids)
 
 
-Authors[a]
+
+
+
+
+
+
+
+
+Authors[f]
 Lauren Fuess, Morgan Eisenlord, Collin Closek, Allison Tracy, Ruth Mauntz, Sarah Gignoux-Wolfsohn, Monica Moritsch, Reyn Yoshioka, Drew Harvell, Carolyn Friedman, Steven Roberts
 
 
-Abstract: 
-* General comment on echinoderms and immune systems
-* Transcriptomics of sea urchins show a suite of immune response proteins; sea stars likely to share many
-* Transcriptomics as tool to quantify sea star response to infection to sea star wasting disease
-* We injected Pycnopodia helianthoides with live filtrate of coelomic fluid from infected stars and compared them to a control group injected with heat-killed filtrate
-* We sequenced transcriptome using …. and quantified expression patterns in healthy and infected stars with…
-* Using Gene Ontology (GO) terms to group the differentially expressed genes by biological processes, we found enriched expression in three/four major pathways: [list]
-   * One sentence descriptor for interesting finds in each pathway
-* This is the first characterization of immune function in the class Asteroidea. Our transcriptome of P. helianthoides provides a tool for investigation into the echinoderm immune response, and also provides a resource for further studies of evolution and physiology.
 
 
-Keywords: transcriptome, bioinformatics, echinoderm, Asteroidea, Pycnopodia helianthoides, 
-
-
-Introduction:[b][c][d]
-
-
-* Transcriptome as a means for understanding response to infection on a gene level
-   * in our case, Asteroidea
-* Transcriptome as foundation for studying immune response [e]in invertebrates
-   * What we know about echinoderm immunity (mostly in urchins)
-   * Morgan’s specifics
-* Invertebrate Immunity Processes highlight:
-   * TLR pathways
-   * Complement Cascades (in Urchins)
-   * Skeletal/Muscular
-* Sea star wasting scope and symptoms
-   * Started in summer 2013, field observations and lab experiments show association of infection with high temperatures 
-   * The first symptoms of the disease include abnormally twisted arms and small white lesions on the aboral body wall. As the disease progresses, tissue...The time from appearance of twisting to the onset of more severe symptoms varies markedly between sites.
-   * Ecological importance of sea stars
-* Our infection experiment and transcriptome sequencing is valuable because:
-   * This is the first characterization of echioderm immunity in Asteroids
-   * Can tell us a lot about how sea stars respond to pathogens
-   * a gene-level approach will expand the field of disease ecology
---------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 Pulling apart the host response to sea star wasting disease: A transcriptome-wide analysis 
+Abstract?… (not to be presumptuous, but I modified from conclusions to help me think out loud about some details and significance of results)
+ 
+Our analysis of differentially expressed genes and enriched pathways in the sea star transcriptome shows that, similar to urchins, sea stars have a complex immune response involving thousands of genes. Pycnopodia helianthoides exposed to viral-sized SSWD injectate and showing clinical signs of SSWD showed a significant host response to the treatment, including differential expression in the toll pathway, complement cascades, melanization, clotting response, ECM remodeling, G protein coupled receptors, and neural involvement. Of those differentially expressed contigs, 1629 were expressed lower and 2103 were expressed higher in injectate-treated individuals. Enrichment of several previously undetected complement cascade proteins reveals a richer complement cascade than was previously known for echinoderms. While the family is large, enriched GPCRs were exclusively down in the treatment samples (Table 7) and show suppression of particular signalling cascades in contrast to healthy samples. WHAT WAS DISTINCTIVE ABOUT TLR RESPONSE?  Since this is the first analysis of asteroid immune response to injection of a live pathogen, further studies are needed to differentiate the gene expression changes following infection with SSWD from other pathogens.  MORE DETAIL  our P. helianthoides transcriptome lays the foundations for better characterization of sea star immune responses. Comparison with the few other echinoderm transcriptomes can provide insight into the evolution of immunity-related genes in deuterostomes. [g]
 
 
-Emerging diseases have had devastating impacts on marine ecosystems in recent decades (Harvell et al. 1999, Burge et al. 2014). Although diseases are a natural part of ecosystems, there is rising concern over the far-reaching consequences of severe outbreaks and their association with shifting environmental conditions (Burge et al. 2014). An enhanced understanding of how species respond to severe disease outbreaks is a critical first step in learning about the causes and consequences. The outbreak of Sea Star Wasting Disease (SSWD[f][g][h]) in 2013-2014 has provided us with a unique opportunity to investigate the responses of an ecologically important species and may aid efforts to learn about the disease before it decimates more sea star populations[i][j]. The taxonomic position of sea stars gives this work relevance to research on the evolution of immune systems and invertebrate disease research as a whole. 
+
+
+
+
+Emerging diseases have had devastating impacts on marine ecosystems in recent decades (Harvell et al. 1999, Burge et al. 2014). Although diseases are a natural part of ecosystems, there is rising concern over the far-reaching consequences of severe outbreaks and their association with shifting environmental conditions (Burge et al. 2014). An enhanced understanding of how species respond to severe disease outbreaks is a critical first step in learning about the causes and consequences. The outbreak of Sea Star Wasting Disease (SSWD) in 2013-2014 has pro[h]vided us with a unique opportunity to investigate the responses of an ecologically important species and may aid efforts to learn about the disease before it decimates more sea star populations[i][j]. The taxonomic position of sea stars gives this work relevance to research on the evolution of immune systems and invertebrate disease research as a whole. 
 Beginning  in summer 2013, SSWD has caused severe population declines in multiple sea star species along the North American Pacific coast (MARINe 2013). The first symptoms of disease include abnormally twisted arms, a deflated appearance, and small white lesions on the aboral body wall. As the disease rapidly progresses, tissue degrades and begins to lose structure, leading to arm loss and death (Eckert et al. 2000). Previous outbreaks of the disease have coincided with periods of above-average temperatures, and laboratory challenge experiments also show increased infection rates at higher temperatures (Eckert et al. 2000; Bates et al. 2009). Many basic details of SSWD are still unknown, including the causative pathogen, the mode of disease spread, and conditions influencing the severity of disease (MARINe 2013). Because sea stars serve as keystone species in maintaining the trophic structure of intertidal and subtidal food webs, loss of Asteroid populations to wasting syndrome outbreaks has the potential to shift community composition of intertidal and subtidal ecosystems (Paine 1974; Duggins 1983). Understanding this rapidly progressing, temperature sensitive disease could shed light on the dynamics of host-pathogen interactions in marine ecosystems in the context of a changing environment. 
-Echinoderms [k][l][m][n]possess a complex innate immune system with specialized phagocytotic cells, signalling molecules that circulate in coelomic fluid, and a melanization response (urchins, seastars) (Franco et al. 2011; Smith et al. 2010[o][p]; Smith and Soderhall 1991). In the sea urchin Strongylocentrotus purpuratus, high diversity in a few gene families supports innate immune responses tailored to specific classes of pathogens (Hibino et al. 2006). Several pathways respond to immune challenge assays, including the complement pathway, Toll pathway, and cell adhesion regulation (Hibino et al. 2006; Smith et al. 2010; Dheilly et al. 2013). Given their taxonomic position at the base of the deuterostomes, echinoderms are more similar to chordates and vertebrates than other invertebrate lineages (Blair and Hedges 2005). Indeed, many homologues of vertebrate immune genes have been identified in echinoderms (Messier-Solek et al. 2010, Smith 2010). Thus, a more detailed exploration of the sea star response to disease may enhance our understanding of the evolution of innate and adaptive immunity.
+Echinoderms [k][l][m][n]possess a complex innate immune system with specialized phagocytotic cells, signalling molecules that circulate in coelomic fluid, and a melanization response (urchins, seastars) (Franco et al. 2011; Smith et al. 2010[o][p]; Smith and Soderhall 1991). In the sea urchin Strongylocentrotus purpuratus, high diversity in a few gene families supports innate immune responses tailored to specific classes of pathogens (Hibino et al. 2006). Several pathways respond to immune challenge assays, including the complement pathway, Toll pathway, and cell adhesion regulation (Hibino et al. 2006; Smith et al. 2010; Dheilly et al. 2013). Given their taxonomic position at the base of the deuterostomes, echinoderms are more similar to chordates and vertebrates than other invertebrate lineages (Blair and Hedges 2005). Indeed, many homologues of vertebrate immune genes have been identified in echinoderms (Messier-Solek et al. 2010, Smith 2010). Thus, a more detailed exploration of the sea star response to disease may enhance our understanding of the evolution of innate and adaptive immunity.[q]
         Outside of sea urchins, the genomics of echinoderm immunity have not been well-characterized, especially in the class Asteroidea, due to a lack of transcriptomic resources (Du et al. 2012). In this study, we characterize the sea star immune response in the sunflower star, Pycnopodia helianthoides, by inducing wasting disease in previously healthy individuals and examining gene expression patterns of healthy and infected stars. Our P. helianthoides transcriptome is the first transcriptome-wide characterization of immunity in the class Asteroidea and represents one of the few transcriptomes from the phylum Echinodermata. We have identified differential expression of immune genes in enriched biological processes, including members of the Toll and complement pathways, as well as evidence of nervous/connective tissue disruption, Wnt signaling pathway disruption, and [something on G proteins].  
 
 
@@ -204,18 +231,27 @@ Methods
 
 
 Experimental Design 
-Pycnopodia helianthoides (radius 160.5 +/- 30.9 mm) were collected from three sites in Washington State: Dabob Bay (DB), WA (47.813, -122.820); Port Hadlock Marina (PH), WA (48.030, -122.745); Friday Harbor (FH), WA (48.545, -123.012). Sites had no reports of SSWD[q] infection at time of collection and no animals collected showed clinical signs of the disease. An effort was made to collect animals within a similar size range to reduce variation based on body mass but otherwise selection was random. Experiments were conducted at Marrowstone USGS Laboratory, WA. P. helianthoides were transported to the lab on the day of collection in coolers, wrapped in cloth soaked in seawater from their respective sites.
-Upon arrival, animals were examined for signs of disease or trauma and animals were transferred to individual, 37.8 L aquariums with separate flow-through, sand-filtered, and UV-treated seawater kept at ~8.5°C. The acclimation period for each star ranged from 3 days to 2.5 months, depending on time of collection. During this period, animals were examined for signs of disease and fed live manila clams [r]every 3-4 days. Water flow was checked daily.
+Pycnopodia helianthoides (radius 160.5 +/- 30.9 mm) were collected from three sites in Washington State: Dabob Bay (DB), WA (47.813, -122.820); Port Hadlock Marina (PH), WA (48.030, -122.745); Friday Harbor (FH), WA (48.545, -123.012). Sites had no reports of SSWD[r] infection at time of collection and no animals collected showed clinical signs of the disease. An effort was made to collect animals within a similar size range to reduce variation based on body mass but otherwise selection was random. Experiments were conducted at Marrowstone USGS Laboratory, WA. P. helianthoides were transported to the lab on the day of collection in coolers, wrapped in cloth soaked in seawater from their respective sites.
+Upon arrival, animals were examined for signs of disease or trauma and animals were transferred to individual, 37.8 L aquariums with separate flow-through, sand-filtered, and UV-treated seawater kept at ~8.5°C. The acclimation period for each star ranged from 3 days to 2.5 months, depending on time of collection. During this period, animals were examined for signs of disease and fed live manila clams [s]every 3-4 days. Water flow was checked daily.
 An infection challenge was conducted with filtered tissue homogenate prepared from the tube feet, dermal tissue, and coelomic fluid of three P. helianthoides with clinical signs of SSWD. The tissue was ground with a mortar and pestle, then placed in a Stomacher with 10 mL seawater, and centrifuged at 1000 x g for 5 min at 4°C. The homogenate was then split into two 5 mL aliquots: one aliquot was boiled for 7 minutes (control), while the other aliquot was syringe-filtered through a 0.22 μm polyethylsulfone filter (treatment). One animal from each site was randomly inoculated on 6 April 2014 with either control or 0.22 μm filtered inocula (0.5 mL) by injection into the coelomic cavity, under the dermis on the aboral side of the arm, and within the armpit. The animals were checked twice daily and any physical or behavioral changes recorded. Animals were sacrificed on 15 April 2014, 9 days post injection once all three treatment animals showed small lesions. Stars were sampled while lesions were small and they still had turgor so the coelomic fluid could be extracted from an intact animal. Coelomic fluid was collected from the arm of the animal using a syringe. The samples were centrifuged for 5 minutes at 1200 rpm at 4°C to separate the coelomocytes. The fluid was then removed and the pellet containing the coelomocytes flash frozen in liquid nitrogen and kept at -80C
 
 
 High Throughput Sequencing and Assembly
-Total RNA was extracted using Tri-Reagent per manufacturer’s instruction. Potential DNA carry-over was removed from extracted RNA using the Turbo DNA-free treatment according to the manufacturer's instructions (Ambion). Library preparation was done at the Cornell Microarray facility using the mRNA-Seq 8-Sample Prep Kit (Illumina, San Diego, California) followed by sequencing preparation using the standard protocols (Illumina, San Diego, California) at the Cornell University. Libraries were sequenced on an Illumina Hi-Seq where 100bp paired end sequencing was performed. 
-Quality trimming of resulting sequencing reads was performed using CLC Genomics Workbench v. 7.0 (CLC Bio, Germany) with the following parameters: quality limit = 0.05, number of ambiguous nucleotides < 2 on ends, reads shorter than 20 bp were removed, and Illumina PCR primers were removed. De novo assembly was performed with Genomics Workbench 7. 5.0 (CLC Bio, Germany) on quality trimmed sequences with the following parameters; automatic bubble size, automatic word size, auto-detect paired distances, perform scaffolding, and minimum contig size of 500 bp.  In order to remove bacterial sequences from the transcriptome data, consensus sequences were compared to the NCBI nt database using the BLASTn algorithm. Consensus sequences with significant matches (evalue = 0) to bacterial sequences were removed and not considered in subsequent analyses. 
+Total RNA was extracted using Tri-Reagent per manufacturer’s instruction. Potential DNA carry-over was removed from extracted RNA using the Turbo DNA-free treatment according to the manufacturer's instructions (Ambion). Library preparation was done at the Cornell Microarray facility using the mRNA-Seq 8-Sample Prep Kit (Illumina, San Diego, California) followed by sequencing preparation using the standard protocols (Illumina, San Diego, California) at the Cornell University. Libraries were sequenced on an Illumina Hi-Seq where 100bp paired end sequencing was performed.[t] 
+Quality trimming of resulting sequencing reads was performed using CLC Genomics Workbench v. 7.0 (CLC Bio, Germany) with the following parameters: quality limit = 0.05, number of ambiguous nucleotides < 2 on ends, reads shorter than 20 bp were removed, and Illumina PCR primers were removed. De novo assembly was performed with Genomics Workbench 7. 5.0 (CLC Bio, Germany) on quality trimmed sequences with the following parameters; automatic bubble size, automatic word size, auto-detect paired distances, perform scaffolding, and minimum contig size of 500 bp.  In order to remove bacterial sequences from the transcriptome data, consensus sequences were compared to the NCBI nt database using the BLASTn algorithm. Consensus sequences with significant matches (evalue = 0) to bacterial sequences (n=10) were removed and not considered in subsequent analyses. 
 
 
-Transcriptome Annotation.
-Transcriptomic sequences were annotated by comparing contiguous sequences to the UniProtKB/Swiss-Prot database. Comparisons were made using the BLASTx algorithm with a 1.0E-5 e-value threshold. Genes were classified according to Swiss-Prot Gene Ontology (GO) associations, as well as respective parent categories (GO Slim). In addition the transcriptome was compared to PATRIA?[s][t][u]
+
+
+Transcriptome Completeness
+FROM  http://journal.frontiersin.org/Journal/10.3389/fphys.2013.00180/full
+To characterize the completeness of the G. ventalina transcriptome assembly and assess similar gene families across related species, the G. ventalina transcriptome was compared to other cnidarian transcriptomes. A blast search (<1E-5) was performed comparing the G. ventalina transcriptome toN. vectensis [27, 273 sequences; Nematostella vectensis genome project (2012)] and A. millepora[95, 400 sequences; (Acropora millepora transcriptome (2012)]. Furthermore, similarly as previously described (Polato et al., 2011) we used OrthoDB (Waterhouse et al., 2011) to identify orthologs conserved in metazoans and single copy in Hydra magnipapillata and N. vectensis to compare with the G. ventalina transcriptome. Specifically we used 118 conserved proteins (across metazoans) from H. magnipapillata and N. vectensis to identify G. ventalina homologs using TBLASTN.
+
+
+
+
+Transcriptome Annotation
+Transcriptomic sequences were annotated by comparing contiguous sequences to the UniProtKB/Swiss-Prot database. Comparisons were made using the BLASTx algorithm with a 1.0E-5 e-value threshold. Genes were classified according to Swiss-Prot Gene Ontology (GO) associations, as well as respective parent categories (GO Slim). In addition the transcriptome was compared to PATRIA?[u][v][w]
 
 
 Differential Expression Analysis
@@ -223,10 +259,10 @@ Differential expression of contigs was calculated using a negative binomial GLM 
 
 
 Enrichment Analysis
-Enriched GO terms associated with differentially expressed genes were identified using the Database for Annotation, Visualization and Integrated Discovery (DAVID) v. 6.7 (Huang et al. 2009). The specific GO category (GO FAT), developed as part of the Annotation Tool of the DAVID suite of bioinformatics resources, is a category that filters out broad GO terms based on a measured specificity of each term.[v][w][x] The UniProt accession numbers for differentially expressed genes were uploaded as a gene list, while all UniProt accession numbers for annotated transcriptomic contigs were used as a background. Significantly enriched GO terms were identified as those with Benjamini-Hochberg adjusted p<0.05. Enriched GO terms were clustered in semantic space using Revigo (Supek et al. 2011).
+Enriched GO terms associated with differentially expressed genes were identified using the Database for Annotation, Visualization and Integrated Discovery (DAVID) v. 6.7 (Huang et al. 2009). The specific GO category (GO FAT), developed as part of the Annotation Tool of the DAVID suite of bioinformatics resources, is a category that filters out broad GO terms based on a measured specificity of each term.[x][y][z] The UniProt accession numbers for differentially expressed genes were uploaded as a gene list, while all UniProt accession numbers for annotated transcriptomic contigs were used as a background. Significantly enriched GO terms were identified as those with Benjamini-Hochberg adjusted p<0.05. Enriched GO terms were clustered in semantic space using Revigo (Supek et al. 2011).
 
 
-Results[y]
+Results
 
 
 Inoculation Experiment
@@ -275,7 +311,7 @@ Animal #
 	Exposure
 	5
 	1
-	Table 1. Individual animals sampled showing collection site, acclimation period, and progression of clinical signs. 
+	Table 1. Individual animals sampled showing collection site, acclimation period, and progression of clinical signs. [aa]
 
 
 
@@ -283,29 +319,47 @@ Animal #
 Transcriptome
   
 
-Figure X: Breakdown of gene ontology slim terms for all annotated reads in the transcriptome (n= 10513).[z]
+Figure X: Breakdown of gene ontology slim terms for all annotated reads in the transcriptome (n= 10513).[ab]
 
 
-Our sequencing effort result a combined 2.9x108 [aa]paired end reads among all six libraries. Sequencing reads are available in NCBI SRA Accession # XXXXXXXXX. After quality trimming reads were assembled into 29476 consensus sequences with an N50 value of 1757 bp (SUPPLEMENTAL FILE). 
+Our sequencing effort result a combined 2.9x108 [ac][ad][ae]paired end reads among all six libraries. Sequencing reads are available in NCBI SRA Accession # XXXXXXXXX. After quality trimming reads were assembled into 29476 consensus sequences with an N50 value of 1757 bp (SUPPLEMENTAL FILE). Comparisons of the Pycnopodia helianthoides transcriptome sequences to the UniProtKB/Swiss-Prot database resulted in annotation of 10513 contigs (SUPPLEMENTAL FILE[af]).
 
 
-Comparisons of the Pycnopodia helianthoides transcriptome sequences to the UniProtKB/Swiss-Prot database resulted in annotation of 10513 contigs (SUPPLEMENTAL FILE).
+
+
+Transcriptome Completeness[ag][ah][ai]
+FROM  http://journal.frontiersin.org/Journal/10.3389/fphys.2013.00180/full
+Blast searches of G. ventalina contigs to transcript sets of N. vectensis and A. millepora indicate 10.7 and 12.1 % of G. ventalina contigs had significant matches, respectively. Similarly, a BLAST search comparing A. millepora to N. vectensis data sets found 13.5% of A. millepora contigs with hits. Sequences corresponding to all 118 orthologs conserved across metazoans as identified in OrthoDB (Waterhouse et al., 2011) were identified in the G. ventalina transcriptome. Each ortholog matched a unique G. ventalina contig with 97.5% of the BLAST comparisons with N. vectensis and 94.1% of the comparisons with Hydra magnipapillata, having an e-value < 1.0E-20.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Differentially Expressed Genes
-Analysis with DESeq2 (Anders 2010) resulted in 3732 contigs that were differentially expressed between control and exposed  individuals. Of those differentially expressed contigs, 1629 were expressed lower and 2103 were expressed higher in viral treated individuals (Figure 1). A total of 1183 differentially expressed contigs (31.7%) were annotated with SwissProt IDs.
+Of those contigs identified as differentially expressed (n=3732), 1629 were expressed lower and 2103 were expressed higher in viral treated [aj]individuals (Figure 1). A total of 1183 differentially expressed contigs (31.7%) were annotated with SwissProt IDs.
  DESeq dots.png 
 
 Figure 1. DESeq2 analysis of contigs resulted in 3732 differentially expressed genes (red) that were used in further analyses.
 
 
-Gene Ontology (GO) Enrichment[ab][ac][ad]
-Seventeen BP_FAT[ae] gene ontology (GO) terms were significantly enriched in the subset of annotated differentially expressed genes. These terms fell into three broad categories: immune response, regulation of cytokine production, and biological adhesion (Figure 2)[af][ag]. Immune response was the largest of these categories, with thirteen associated enriched GO terms. Table S1 lists all significantly enriched GO terms.  Regulation of cytokine biosynthetic process (GO:0042035) and activation of immune response (GO:0002253) were the two most enriched GO terms with fold enrichments of 5.881791 and 5.614436 respectively (Figure 3)[ah].  In addition to enriched terms and categories, contigs annotated as part of the toll-like receptor-mediated pathway (Table 2) , complement cascade (Table 3), and clotting/ mutable connective tissue (Table 4) were noted. Furthermore a number of contigs involved in the WNT-signaling pathway (Table 5), neural/ mutable conective tissue processes (Table 6), and G-coupled proteins were also observed (Table 7) (Table S1).
+Gene Ontology (GO) Enrichment[ak][al][am]
+Seventeen BP_FAT[an] gene ontology (GO) terms were significantly enriched in the subset of annotated differentially expressed genes. These terms fell into three broad categories: immune response, regulation of cytokine production, and biological adhesion (Figure 2)[ao][ap]. Immune response was the largest of these categories, with thirteen associated enriched GO terms. Table S1 lists all significantly enriched GO terms.  Regulation of cytokine biosynthetic process (GO:0042035) and activation of immune response (GO:0002253) were the two most enriched GO terms with fold enrichments of 5.881791 and 5.614436 respectively (Figure 3)[aq].  In addition to enriched terms and categories, contigs annotated as part of the toll-like receptor-mediated pathway (Table 2) , complement cascade (Table 3), and clotting/ mutable connective tissue (Table 4) were noted. Furthermore a number of contigs involved in the WNT-signaling pathway (Table 5), neural/ mutable connective tissue processes (Table 6), and G-coupled proteins were also observed (Table 7) (Table S1).
 
 
   
-[ai]
-Figure 2: Enriched gene ontology terms fell into three categories: immune response, regulation of cytokine production, and biological adhesion.[aj] Box size corresponds to the number of GO terms in each category.
+[ar]
+Figure 2: Enriched gene ontology terms fell into three categories: immune response, regulation of cytokine production, and biological adhesion.[as] Box size corresponds to the number of GO terms in each category.
 
 
 
@@ -519,7 +573,7 @@ Contig
 	6.22E-11
 	Phel_clc_contig_1529
 	3SYW2
-	[ak]
+	[at]
 C2
 	3.14
 	4.54E-09
@@ -827,18 +881,18 @@ Table 7: List of contigs involved in G-proteins
 Discussion
 
 
-Our comparison of gene expression patterns between treatment and control stars contributes greatly to a characterization of both the sea star immune response and the mechanisms underlying the progression[al][am][an][ao][ap][aq] of SSWD. Our results indicate that P. helianthoides shows signs of SSWD [ar]and mounts a strong immune response when infected with homogenate from seastars with signs of SSWD. This response includes increased expression of genes associated with the Toll pathway, complement cascade, melanization, and coagulation. Furthermore, we documented a number of changes in gene expression that  may contribute to the observed clinical signs of SSWD. These include contigs involved in G-coupled protein processes, WNT signaling, cell adhesion, and neural processes. A close examination of these genes enhances knowledge of host-pathogen dynamics in sea stars.
+Our comparison of gene expression patterns between treatment and control stars contributes greatly to a characterization of both the sea star immune response and the mechanisms underlying the progression[au][av][aw][ax][ay][az] of SSWD. Our results indicate that P. helianthoides shows signs of SSWD [ba]and mounts a strong immune response when infected with homogenate from seastars with signs of SSWD. This response includes increased expression of genes associated with the Toll pathway, complement cascade, melanization, and coagulation. Furthermore, we documented a number of changes in gene expression that  may contribute to the observed clinical signs of SSWD. These include contigs involved in G-coupled protein processes, WNT signaling, cell adhesion, and neural processes. A close examination of these genes enhances knowledge of host-pathogen dynamics in sea stars.
 
 
 Toll Pathway
 
 
-The differential expression and enrichment of multiple genes involved in the Toll-like receptor-mediated pathway of the infection treatment sea stars suggests that this pathway plays an important role in P. helianthoides immunity. Toll-like receptors (TLRs) in both vertebrates and invertebrates recognize patterns to discriminate between self and non-self, inducing a response to bacterial and viral pathogens (Aderem and Ulevitch, 2000; Finberg et al. 2007;  Zambon et al. 2005; Valanne et al. 2011). The sea urchin genome contains 222 TLRs (Rast et al. 2006). It is not surprising, therefore, that we find differentially expressed TLRs[as] in the seastar transcriptome (TLR1,TLR2,TLR8). The differential expression of TLR8 is especially interesting as this receptor has been linked to viral recognition (Akira et al. 2006). Following recognition, TLRs act through a network of signaling molecules to activate different immune and inflammatory cascades (Valanne et al. 2011). One potential pathway following TLR recognition is activation of Rac1, which initiates a pathway to activate NF-kB (Cuadrado et al. 2014), a transcription factor that triggers multiple immune effectors (Janeway et al. 2001). This response has been seen in immune-challenged Manila clams (Moreira et al. 2012). Additional enriched genes act through an alternate pathway of NF-kB activation: TOLLIP and Myd88 are activated [at]by TLR1 and TLR2 and in turn activate IRAK1 (Takeda et al. 2004; Muzio et al. 1997). Evidence of the cascade from Myd88 to IRAK1 to TRAF6 has been found in both invertebrate and vertebrate systems (Wang et al. 2011), including Myd88 in both sea urchins and sea cucumbers and TRAF6 in sea cucumbers (Rauta et al. 2014). Downstream signaling in the Myd88 pathway includes a suite of closely interacting genes that belong to enriched processes in the treatment seastars: PINK1, Traf6[au][av][aw][ax][ay][az][ba][bb][bc], Sqstm-1, HSP60[bd] and MALT1 (Sun et al. 2004, Bitto et al 2014, Muroi et al. 2008; Coscia et al. 2011; Into et al. 2010; Cohen-Sfady et al. 2005). Further downstream in the TLR-mediated pathways, the enriched gene BLC3 is involved in negatively regulating NF-kB (Wang et al. 2009). NF-kB, NF-kB1 subunits[be][bf][bg][bh][bi], and NF-rKB are themselves enriched genes in treatment seastars. The signaling cascade initiated by TLRs leads to the production of inflammatory cytokines including IL-6, which is differentially expressed in treatment seastars and has been found in past research on immune-challenged seastars (Beck & Habicht 1996). 
-We also identified other enriched genes that have been linked with the TLR-mediated pathway including RASGEF1B (Andrade et al. 2010), TBK1, which activates IRF3 instead of NF-kB (Shin et al. 2013), and Cebp-b, another pro-inflammatory transcription factor (Rojo et al. 2007; Grohmann et al. 2010). The histamine H2 receptor (Hrh2) is also differentially expressed and has been linked to the regulation of IL-10 and IL-12 regulation in mammals (Elenkov et al. 1998[bj]). Differentially expressed genes in enriched processes appear in multiple branches of the TLR-mediated pathway, serving as evidence that, as in other echinoderms, Toll pathways play an important role in P. helianthoides immunity[bk].
+The differential expression and enrichment of multiple genes involved in the Toll-like receptor-mediated pathway of the infection treatment sea stars suggests that this pathway plays an important role in P. helianthoides immunity. Toll-like receptors (TLRs) in both vertebrates and invertebrates recognize patterns to discriminate between self and non-self, inducing a response to bacterial and viral pathogens (Aderem and Ulevitch, 2000; Finberg et al. 2007;  Zambon et al. 2005; Valanne et al. 2011). The sea urchin genome contains 222 TLRs (Rast et al. 2006). It is not surprising, therefore, that we find differentially expressed TLRs[bb] in the seastar transcriptome (TLR1,TLR2,TLR8). The differential expression of TLR8 is especially interesting as this receptor has been linked to viral recognition (Akira et al. 2006). Following recognition, TLRs act through a network of signaling molecules to activate different immune and inflammatory cascades (Valanne et al. 2011). One potential pathway following TLR recognition is activation of Rac1, which initiates a pathway to activate NF-kB (Cuadrado et al. 2014), a transcription factor that triggers multiple immune effectors (Janeway et al. 2001). This response has been seen in immune-challenged Manila clams (Moreira et al. 2012). Additional enriched genes act through an alternate pathway of NF-kB activation: TOLLIP and Myd88 are activated [bc]by TLR1 and TLR2 and in turn activate IRAK1 (Takeda et al. 2004; Muzio et al. 1997). Evidence of the cascade from Myd88 to IRAK1 to TRAF6 has been found in both invertebrate and vertebrate systems (Wang et al. 2011), including Myd88 in both sea urchins and sea cucumbers and TRAF6 in sea cucumbers (Rauta et al. 2014). Downstream signaling in the Myd88 pathway includes a suite of closely interacting genes that belong to enriched processes in the treatment seastars: PINK1, Traf6[bd][be][bf][bg][bh][bi][bj][bk][bl], Sqstm-1, HSP60[bm] and MALT1 (Sun et al. 2004, Bitto et al 2014, Muroi et al. 2008; Coscia et al. 2011; Into et al. 2010; Cohen-Sfady et al. 2005). Further downstream in the TLR-mediated pathways, the enriched gene BLC3 is involved in negatively regulating NF-kB (Wang et al. 2009). NF-kB, NF-kB1 subunits[bn][bo][bp][bq][br], and NF-rKB are themselves enriched genes in treatment seastars. The signaling cascade initiated by TLRs leads to the production of inflammatory cytokines including IL-6, which is differentially expressed in treatment seastars and has been found in past research on immune-challenged seastars (Beck & Habicht 1996). 
+We also identified other enriched genes that have been linked with the TLR-mediated pathway including RASGEF1B (Andrade et al. 2010), TBK1, which activates IRF3 instead of NF-kB (Shin et al. 2013), and Cebp-b, another pro-inflammatory transcription factor (Rojo et al. 2007; Grohmann et al. 2010). The histamine H2 receptor (Hrh2) is also differentially expressed and has been linked to the regulation of IL-10 and IL-12 regulation in mammals (Elenkov et al. 1998[bs]). Differentially expressed genes in enriched processes appear in multiple branches of the TLR-mediated pathway, serving as evidence that, as in other echinoderms, Toll pathways play an important role in P. helianthoides immunity[bt].
 
 
 Complement Cascades
-        The complement cascade damages pathogens directly in addition to triggering inflammation through opsonization, activating phagocytes, and attracting phagocytes to the site of infection (Janeway 2001). Although a previous study into the sea star coelomocyte proteome did not show homologous complement proteins, this study identifies four complement cascade proteins that are differentially expressed: Ficolin-2 (FCN2), Complement C3 (C3), Properdin (CFP), and Complement C2 (C2) (Franco et al 2011). For all of four protein annotations, at least one corresponding contig was more highly expressed in infected stars than in control samples.  However, contigs annotated as FCN2 had opposing log fold changes, suggesting either gene duplication and differential function or alternative splicing[bl]. The complement cascade has been well documented in Echinoderms previously and contains C3, which functions in opsonization and phagocytosis, and factor B/C2, which increases C3 production (Smith et al. 1999). Here we document the presence of two additional complement cascade proteins, FCN2 and CFP. Both FCN2 and CFP induce the complement cascade, FCN2 through association with mannan-binding lectin-associated serine proteases (Runza et al, 2008) and CFP by binding to apoptotic cells resulting (Kemper et al, 2008). Our results suggest that the complement cascade is an important part of sea star response to wasting disease, and furthermore, that echinoderms may have a more complex complement cascade system than previously thought.
+        The complement cascade damages pathogens directly in addition to triggering inflammation through opsonization, activating phagocytes, and attracting phagocytes to the site of infection (Janeway 2001). Although a previous study into the sea star coelomocyte proteome did not show homologous complement proteins, this study identifies four complement cascade proteins that are differentially expressed: Ficolin-2 (FCN2), Complement C3 (C3), Properdin (CFP), and Complement C2 (C2) (Franco et al 2011). For all of four protein annotations, at least one corresponding contig was more highly expressed in infected stars than in control samples.  However, contigs annotated as FCN2 had opposing log fold changes, suggesting either gene duplication and differential function or alternative splicing[bu]. The complement cascade has been well documented in Echinoderms previously and contains C3, which functions in opsonization and phagocytosis, and factor B/C2, which increases C3 production (Smith et al. 1999). Here we document the presence of two additional complement cascade proteins, FCN2 and CFP. Both FCN2 and CFP induce the complement cascade, FCN2 through association with mannan-binding lectin-associated serine proteases (Runza et al, 2008) and CFP by binding to apoptotic cells resulting (Kemper et al, 2008). Our results suggest that the complement cascade is an important part of sea star response to wasting disease, and furthermore, that echinoderms may have a more complex complement cascade system than previously thought.
 
 
 Melanization
@@ -860,7 +914,7 @@ Neural changes in tandem with or mediating focal adhesion complexes are likely a
 
 
 Conclusions
-Our analysis of differentially expressed genes and enriched pathways in the sea star transcriptome shows that, similar to urchins, sea stars have a complex immune response involving thousands of genes. Pycnopodia helianthoides exhibiting clinical signs of SSWD had differential expression in the toll pathway, complement cascades, melanization, clotting response, ECM remodeling, G protein coupled receptors, and neural involvement, highlighting that the experimental treatment caused a significant host response. While further studies are needed to differentiate the gene expression changes following infection with SSWD from other pathogens, our P. helianthoides transcriptome lays the foundations for better characterization of sea star immune responses. Comparison with the few other echinoderm transcriptomes can provide insight into the evolution of immunity-related genes in deuterostomes[bm]. 
+Our analysis of differentially expressed genes and enriched pathways in the sea star transcriptome shows that, similar to urchins, sea stars have a complex immune response involving thousands of genes. Pycnopodia helianthoides exhibiting clinical signs of SSWD had differential expression in the toll pathway, complement cascades, melanization, clotting response, ECM remodeling, G protein coupled receptors, and neural involvement, highlighting that the experimental treatment caused a significant host response. While further studies are needed to differentiate the gene expression changes following infection with SSWD from other pathogens, our P. helianthoides transcriptome lays the foundations for better characterization of sea star immune responses. Comparison with the few other echinoderm transcriptomes can provide insight into the evolution of immunity-related genes in deuterostomes[bv]. 
 
 
 
@@ -885,7 +939,7 @@ Annotation / all contigs / with DEG info?
 
 
 
-Citations[bn]
+Citations[bw]
 
 
  
@@ -977,15 +1031,15 @@ Zervas, C. G., Psarra, E., Williams, V., Solomon, E., Vakaloglou, K. M., & Brown
 
 
 
-[a]right now for FHL archive, we can reorder later to satisfy everyone
-[b]these points are great- would just flip - start big
-[c]Agreed. Let's start with the big picture and then narrow in, as we're doing in the results and discussion
-[d]That's what I thought - but how big? 
+[a]these points are great- would just flip - start big
+[b]Agreed. Let's start with the big picture and then narrow in, as we're doing in the results and discussion
+[c]That's what I thought - but how big? 
 Maybe: "marine diseases are on the rise" concept --> SSWD outbreak & need to understand the response of stars --> invert immunity --> transcriptome to build on the foundation of known innate immunity work
-[e]At this juncture in the paper, maybe "response to disease" would be better
-[f]Just a heads up, PISCO/MARINe has been using "Sea Star Wasting Syndrome" and like consistency across publications. I'm not sure if they are both acceptable in publication (and I personally am fine with either one), but we should check with other research groups on what's the standard term before the final publication.
-[g]what did drew ian etc use?
-[h]They use Sea Star Wasting Disease
+[d]At this juncture in the paper, maybe "response to disease" would be better
+[e]list other options
+[f]right now for FHL archive, we can reorder later to satisfy everyone
+[g]From Drew's edits
+[h]need reference
 [i]while true, this sounds too dramatic for a publication
 [j]whats wrong with dramatic? it is dramatic! :)
 [k]maybe sell taxonomic relation with vertebrates in lead paragraph
@@ -994,53 +1048,62 @@ Maybe: "marine diseases are on the rise" concept --> SSWD outbreak & need to und
 [n]I put it in the first paragraph above
 [o]Is that all that's known in seastars? Lauren - you could investigate this more if you have free time
 [p]Sorry I just saw this.  I'll work on this investigating this more soon for the actual publication.
-[q]use or anacronym? or write out ?
-[r]species? (or just genus?)
-[s]Collin / Ruth were you following up on this?
-[t]On it.
-[u]Having some issues blasting both patiria nucl db and prot db to our transcriptome.... both seem to be matching multiple patiria genes to our contigs as we're getting >400,000 matches and WE ONLY HAVE 30,000 contigs. Might need another approach at characterization.
-[v]What?
-[w]this is just text DAVID used to describe GO FAT (a previous reviewer had wanted it) we can remove
-[x]Let's keep it for now I guess
-[y]can you go ahead and get placeholder figures in the draft??
-[z]Added the above chart in based on the new breakdown of reads with bacteria taken out.  I can change the appearance/style as necessary.
-[aa]is this before or after quality trimming? probably want the number after?
-[ab]What other info do we want here?
-[ac]For each pathway - I suggest listing some of the specific proteins (with contig IDs)
-[ad]heatmap?
-[ae]write out acronym?
-[af]Revigo map?
-[ag]sure lets start with that
-[ah]Graph of fold enrichment for each term?  Or we can just include in above table
-[ai]We can change the colors if we want. Let me know what to add to the caption.
-[aj]will need more information- size means something....
-[ak]I used short names here to reduce table size.
-[al]lets get our terminology straight, do we want to say treatment vs control, exposed vs control, diseased vs control??
-[am]We just decided on treatment vs. control. Do you agree?
-[an]sure, I guess the only thing is disease stronger?  driving home that these things are more expressed in stars that have a DISEASE rather than just treated with something? whatever you guys think is fine though, just as long as we make it consistent
-[ao]We decided that we can't definitively say that they had SSWD.. so would disease be appropriate?
-[ap]In all my papers I say disease homogenate. I think it makes sense to not say sswd but they definitely have an infectious disease right? otherwise...
-[aq]That's true, even if it's NOT infectious (which this experiment shows really), it IS a disease so we could say "diseased" vs. "control".
-[ar]That is another part of what's going on here - these stars had signs of the disease and were injected with homogenate from stars with the disease - thoughts?
-[as]"transcripts that are annotated as…" ??
-[at]I think this is clear enough for the sake of simplicity, but Tollip is actually an inhibitor that when freed activates IRAK
-[au]PINK1 may go around here?
-[av]yeah it interacts with sqstm-1
-[aw]do you have a citation for that? I couldn't find one
-[ax]its in the bitto, already added it
-[ay]It looks like that's about its interaction with sqstm1, but in regards to autophagy of mitochondria so maybe not relevant?
-[az]no, thats what theyre doing as an immune response.  traf6 is involved too we could say that or not, I think that there is a toll pathway (which clears mitochondria) that involves all of them might be as far as we should go
-[ba]If we want to get more into it, they work with ubiquitination which we see a lot of but that might be something for later not now
-[bb]Oh okay interesting… I'll add and you see if it aligns with that idea to your satisfaction.
-[bc]Well all I did was add in the PINK1 in the existing sentence and I think that took care of it.
-[bd]simplified for now but HSP60 also has an IL-6 connection
-[be]do we want to say enriched or DE?
-[bf]I don't know...
-[bg]me neither...haha
-[bh]what if we say differentially expressed for now and then note at the beginning that all the differentially expressed genes we're talking about are part of enriched pathways? We'll all have to figure out a coordinated system soon for this
-[bi]that sounds good
-[bj]I think this is the first involvement of Hrh2 in invertebrate immunity. A lot of these are probably firsts… in echinoderms, seastars, invertebrates perhaps, etc. How do we want to address that?
-[bk]KEGG - http://www.genome.jp/kegg-bin/show_pathway?hsa04620
-[bl]Need to investigate this further to make a solid comment.
-[bm]Adjust once we figure out final scope
-[bn]I will move this to a separate page later
+[q]I think this should be first paragraph
+[r]use or anacronym? or write out ?
+[s]species? (or just genus?)
+[t]can someone confirm this language with Cornell core?
+[u]Collin / Ruth were you following up on this?
+[v]On it.
+[w]Having some issues blasting both patiria nucl db and prot db to our transcriptome.... both seem to be matching multiple patiria genes to our contigs as we're getting >400,000 matches and WE ONLY HAVE 30,000 contigs. Might need another approach at characterization.
+[x]What?
+[y]this is just text DAVID used to describe GO FAT (a previous reviewer had wanted it) we can remove
+[z]Let's keep it for now I guess
+[aa]table does not stand alone well - if keeping names in legend, collection date relative to ??,  maybe sort by treatment , Days are not in context.
+[ab]Added the above chart in based on the new breakdown of reads with bacteria taken out.  I can change the appearance/style as necessary.
+[ac]is this before or after quality trimming? probably want the number after?
+[ad]before
+[ae]post trim still 2.9x10^8
+[af]needs some cleaning up / merging - Bigger Q is what will supp files be?
+[ag]need to tackle
+[ah]So with the patria transcriptome? and seaurchin maybe?
+[ai]yes ; OrthoDB is also is good
+[aj]dont think we are using this terminology
+[ak]What other info do we want here?
+[al]For each pathway - I suggest listing some of the specific proteins (with contig IDs)
+[am]heatmap?
+[an]write out acronym?
+[ao]Revigo map?
+[ap]sure lets start with that
+[aq]Graph of fold enrichment for each term?  Or we can just include in above table
+[ar]We can change the colors if we want. Let me know what to add to the caption.
+[as]will need more information- size means something....
+[at]I used short names here to reduce table size.
+[au]lets get our terminology straight, do we want to say treatment vs control, exposed vs control, diseased vs control??
+[av]We just decided on treatment vs. control. Do you agree?
+[aw]sure, I guess the only thing is disease stronger?  driving home that these things are more expressed in stars that have a DISEASE rather than just treated with something? whatever you guys think is fine though, just as long as we make it consistent
+[ax]We decided that we can't definitively say that they had SSWD.. so would disease be appropriate?
+[ay]In all my papers I say disease homogenate. I think it makes sense to not say sswd but they definitely have an infectious disease right? otherwise...
+[az]That's true, even if it's NOT infectious (which this experiment shows really), it IS a disease so we could say "diseased" vs. "control".
+[ba]That is another part of what's going on here - these stars had signs of the disease and were injected with homogenate from stars with the disease - thoughts?
+[bb]"transcripts that are annotated as…" ??
+[bc]I think this is clear enough for the sake of simplicity, but Tollip is actually an inhibitor that when freed activates IRAK
+[bd]PINK1 may go around here?
+[be]yeah it interacts with sqstm-1
+[bf]do you have a citation for that? I couldn't find one
+[bg]its in the bitto, already added it
+[bh]It looks like that's about its interaction with sqstm1, but in regards to autophagy of mitochondria so maybe not relevant?
+[bi]no, thats what theyre doing as an immune response.  traf6 is involved too we could say that or not, I think that there is a toll pathway (which clears mitochondria) that involves all of them might be as far as we should go
+[bj]If we want to get more into it, they work with ubiquitination which we see a lot of but that might be something for later not now
+[bk]Oh okay interesting… I'll add and you see if it aligns with that idea to your satisfaction.
+[bl]Well all I did was add in the PINK1 in the existing sentence and I think that took care of it.
+[bm]simplified for now but HSP60 also has an IL-6 connection
+[bn]do we want to say enriched or DE?
+[bo]I don't know...
+[bp]me neither...haha
+[bq]what if we say differentially expressed for now and then note at the beginning that all the differentially expressed genes we're talking about are part of enriched pathways? We'll all have to figure out a coordinated system soon for this
+[br]that sounds good
+[bs]I think this is the first involvement of Hrh2 in invertebrate immunity. A lot of these are probably firsts… in echinoderms, seastars, invertebrates perhaps, etc. How do we want to address that?
+[bt]KEGG - http://www.genome.jp/kegg-bin/show_pathway?hsa04620
+[bu]Need to investigate this further to make a solid comment.
+[bv]Adjust once we figure out final scope
+[bw]I will move this to a separate page later
